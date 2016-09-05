@@ -55,6 +55,7 @@ import textract
 import numpy
 import pandas as pd
 import csv
+import time as t
 from pprint import pprint
 #	Nota, si se va imprimir usar .encode('utf-8'))
 
@@ -66,26 +67,38 @@ from pprint import pprint
 
 #	Se abre el documento y se extrae el texto a un string
 docWord = textract.process('datos/Datos_proyecto.doc')
+#     Se remplazan los fin de linea por caracteres identificables
+docWord = docWord.replace(')\',\n\n\n',')\'~').replace('\',\n\n','\',').replace('\n\n','~')
+docWord = docWord.replace('~\n','~').replace('~~','~')
+#     Se remplazan los delimitadores para hacer split posteriormente
+docWord = docWord.replace("\n",'').replace("\',",'@').replace('\'','').replace('.TRABA', '.@TRABA')
 #	Se separa el string por el doble salto de linea para obtener cada tesis por separado
 #	Se crea una lista con los elementos obtenidos
-docWord = docWord.split('\n\n')
+docWord = docWord.split('~')
 # 	Quito la cabecera del titulo, descripcion, palabras claves y el area de la tesis
 for i in range(0,4):
 	docWord.pop(0)
 tesis = []
 #	Separo cada una de las tesis que hay en la lista que viene del doc de word
 for i in docWord:
-	tesis.append(i.replace("\',",'@').replace('\'','').replace("\n",'').replace('.TRABA', '.@TRABA').split('@'))
+	tesis.append(i.split('@'))
 
-"""
+print "tesis tiene : "+str(len(tesis))+" elementos"
+
+for i in range(0,len(tesis)):
+    print i+1
+    for j in tesis[i]:
+        print j
+    print ""
+    #t.sleep(3)
+
+"""    
 -------------------------------------------------------------
 	Proceso de procesado de los 4 elementos de cada tesis
 -------------------------------------------------------------
 """
 
-with open('mydata.csv', 'w') as mycsvfile:
-    thedatawriter = csv.writer(mycsvfile)
-    for row in tesis:
-        thedatawriter.writerow(row)
-
-df = pd.read_csv('mydata.csv', names=['TITULO','DESCRIPCION','PALABRAS CLAVES','MENCION'])
+#with open('mydata.csv', 'w') as mycsvfile:
+#    thedatawriter = csv.writer(mycsvfile)
+#    for row in tesis:
+#        thedatawriter.writerow(row)

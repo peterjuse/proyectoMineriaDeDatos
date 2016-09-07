@@ -90,7 +90,6 @@ for i in range(0,len(tesis)):
     for j in tesis[i]:
         print j
     print ""
-    #t.sleep(3)
 
 """    
 -------------------------------------------------------------

@@ -68,8 +68,9 @@ from pprint import pprint
 #	Se abre el documento y se extrae el texto a un string
 docWord = textract.process('datos/Datos_proyecto.doc')
 #     Se remplazan los fin de linea por caracteres identificables
-docWord = docWord.replace(')\',\n\n\n',')\'~').replace('\',\n\n','\',').replace('\n\n','~')
-docWord = docWord.replace('~\n','~').replace('~~','~')
+docWord = docWord.replace("',\n\n'","'\n\n").replace(')\'\n\n\n',')\'~')
+docWord = docWord.replace(')\',\n\n\n',')\'~').replace('\',\n\n','\',')
+docWord = docWord.replace('\n\n','~').replace('~\n','~').replace('~~','~')
 #     Se remplazan los delimitadores para hacer split posteriormente
 docWord = docWord.replace("\n",'').replace("\',",'@').replace('\'','').replace('.TRABA', '.@TRABA')
 #	Se separa el string por el doble salto de linea para obtener cada tesis por separado
@@ -83,12 +84,8 @@ tesis = []
 for i in docWord:
 	tesis.append(i.split('@'))
 
-print "tesis tiene : "+str(len(tesis))+" elementos"
-
-for i in range(0,len(tesis)):
-    print i+1
-    for j in tesis[i]:
-        print j
+for i in range (0,len(tesis)):
+    print tesis[i]
     print ""
 
 

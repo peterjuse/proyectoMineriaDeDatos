@@ -88,22 +88,13 @@ tesis = []
 for i in docWord:
 	tesis.append(i.split('@'))
 
-#pprint(tesis)
-
+# Elimino las filas que poseen mas de 4 elementos por la dificultad de tratamiento
+# y se agrega un elemento Nulo a aquellos que no poseen palabras clave
 for i in tesis:
 	if len(i)>4:
 		tesis.remove(i)
-
-
-for j,i in enumerate(tesis):
-	if len(i)<4:
-		print "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
-		print "Tesis #: "+str(j)
-		print "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
-		for j in i:
-			print j
-			print "-----------------------------------"
-		print "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n\n\n"
+	if len(i)==3:
+		i.insert(2,None)
 
 """
 -------------------------------------------------------------
@@ -117,6 +108,6 @@ for j,i in enumerate(tesis):
 #        thedatawriter.writerow(row)
 
 #opciones para subir dataframes a partir de una lista de lista
-#headers = ['Titulo de tesis','resumen', 'palabras clave','mencion'] 
-#df = DataFrame(table, columns=headers)
+headers = ['Titulo de tesis','resumen', 'palabras clave','mencion'] 
+df = pd.DataFrame(tesis, columns=headers)
 

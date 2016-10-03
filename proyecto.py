@@ -84,12 +84,22 @@ tesis = []
 for i in docWord:
 	tesis.append(i.split('@'))
 
-for i in range (0,len(tesis)):
-    print tesis[i]
-    print ""
+for i in tesis:
+	if len(i)>4:
+		tesis.remove(i)
+
+for j,i in enumerate(tesis):
+	if len(i)==3:
+		print "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+		print "Tesis #: "+str(j)
+		print "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+		for j in i:
+			print j
+			print "-----------------------------------"
+		print "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n\n\n"
 
 
-"""    
+"""
 -------------------------------------------------------------
 	Proceso de procesado de los 4 elementos de cada tesis
 -------------------------------------------------------------

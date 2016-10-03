@@ -38,20 +38,7 @@ TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMUNICACIONES Y REDES DECOMPUTADORAS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 91
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Sistema Multiagente para el análisis de semen humano bajo la plataformaJADE: Agente de Sesión y Agente Coordinador.
------------------------------------
-Los sistemas multiagente representan una solución de desarrollo deaplicaciones distribuidas, con el objetivo de solventar problemas endominios específicos. Por su condición de sistema distribuido lacomunicación entre agentes de un sistema multiagente debe serestandarizada, para garantizar el principio básico de la comunicación, comoes el entendimiento entre las partes. En este Trabajo Especial de Grado sepresenta el desarrollo de dos agentes del Sistema Multiagente ANALISE comolo son: el Agente Sesión el cual tiene como funciones principales la devalidar la entrada al sistema y la de recibir las peticiones por parte delusuario, y el Agente Coordinador que a su vez, recibe dichas peticiones através del agente sesión, y coordina las tareas con los agentesespecializados a fin de satisfacer el requerimiento y retornar unarespuesta adecuada. Para el diseño de los Agentes Sesión y Coordinador, seutilizó la metodología INGENIAS la cual provee un conjunto de meta-modelosen los que se consideran los diferentes aspectos que forman parte delproceso de diseño de un Sistema Multiagente. En cuanto a la implementación,se utilizó la plataforma JADE la cual ofrece una gran variedad deherramientas para el desarrollo de este tipo de sistemas. Por otra parte sedefinieron un conjunto de objetos de transferencia sobre los mensajes deintercambio entre los agentes para lograr así una comunicación estándar. Semaneja un nivel de capas con base en las funcionalidades de loscomponentes, garantizando modularidad y encapsulamiento de las actividadesdel SMA, ofreciendo una interfaz Web.
------------------------------------
-Sistema Multiagentes, JADE, Análisis de Semen Humano, INGENIAS, Objetos deIntercambio.
------------------------------------
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 104
+Tesis #: 103
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Desarrollo del prototipo de una aplicación para el manejo de encuestaselectrónicas en dispositivos Pocket PC utilizando BD distribuidas ymóviles
 -----------------------------------
@@ -64,7 +51,7 @@ TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 106
+Tesis #: 105
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Desarrollo de una aplicación web para el control del rendimiento de losatletas pertenecientes a la federación venezolana de deportes acuáticos.
 -----------------------------------
@@ -77,7 +64,7 @@ TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 109
+Tesis #: 108
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Sistema de información para el seguimiento y control de proyectos
 -----------------------------------
@@ -90,7 +77,7 @@ TRABAJO ESPECIAL DE GRADO (SISTEMAS DE INFORMACION)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 111
+Tesis #: 110
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Estudio del SMBDRO Oracle en cuanto a sus potencialidades para implementarel manejo de información en ambientes distribuidos
 -----------------------------------
@@ -103,7 +90,20 @@ TRABAJO ESPECIAL DE GRADO (BASES DE DATOS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 113
+Tesis #: 111
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Implantación del libro de inventario basado en software libre.
+-----------------------------------
+Vivimos en un país que afronta constantes cambios de manera muy violenta,el crecimiento de la población, el auge que han tenido la mercadotecnia yla competitividad han llevado a empresas a incrementar su capacidad derepuesta de manera drástica; adicional a esto la información que manejanlas empresas no proviene sólo de sus operaciones internas sino de otrasfuentes como la Internet, por ejemplo. Por estos motivos las empresasincrementan sus operaciones y por ende generan más información a medida quepasan los días, afortunadamente la tecnología de hoy permite almacenar-toda esta información, pero surge una inquietud ¿Cómo manejar tantainformación y a qué costo. La información de las operaciones de una empresaesta organizada bajo varios esquemas y uno de ellos es la Contabilidad. LaContabilidad no es sólo un proceso de las empresas que permite registrar demanera cuantitativa las operaciones, conocer el estado financiero, cumplircon las obligaciones formales ante el SENIAT (Servicio Nacional Integradode Administración Tributaria); sino además es un proceso que estáestrechamente ligado con la toma decisiones en las empresas porque permiteanalizar el desempeño de las mismas. Las empresas adquieren sistemas parallevar la contabilidad pagando ciertos costos (de derechos de uso,asesoría, entrenamiento, etc.), estos sistemas son de propósito general yno están adecuados a las necesidades particulares de cada empresa, lamodificación de estos sistema implica una inversión extra y en algunoscasos estás modificaciones no son posibles. También hay empresas quedesarrollan su propio sistema contable y esto puede resultar aún máscontraproducente. Ante esto, surge la estrategia ERP (Enterprise ResourcePlanning), la cual es una estrategia que tiene como objetivo principal laplanificación del uso de los recursos en las empresas. La informacióncontable forma parte de un sistema ERP, un sistema ERP puede contener lacontabilidad de una empresa y tiene como primer valor agregado permitir laplanificación del uso de los recursos. Los procesos contables son parte delabanico de opciones que puede soportar un sistema ERP. Existe una de seriede sistemas ERP que pueden ofrecer sus soluciones, cada uno de estossistemas tienen sus ventajas y desventajas entre si, muchos tienen una grantrayectoria de éxitos. Los sistema ERP por lo general son softwarepropietario y no software libre, esta es la tendencia que se ha mantenidohasta nuestros días, pero ha surgiendo una alternativa al softwarepropietario en cuanto a sistemas ERP se refiere, y esta es la principalmotivación de este trabajo especial de grado. El objetivo principal de estetrabajo especial de grado en implantar el libro de inventario de laPoliclínica Táchira Hospitalización, en Adempiere como ERP de softwarelibre y cumpliendo los requisitos del SENIAT.
+-----------------------------------
+TRABAJO ESPECIAL DE GRADO (INGENIERIA DE SOFTWARE)
+-----------------------------------
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Tesis #: 112
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Desarrollo de una aplicación web constructora de interfaces gráficas deusuario para aplicaciones de escritorio.
 -----------------------------------
@@ -116,7 +116,7 @@ TRABAJO ESPECIAL DE GRADO (INGENIERIA DE SOFTWARE)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 114
+Tesis #: 113
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Análisis, diseño y construcción de un prototipo de sistema de informacióngeográfica para la vigilancia y control de la malaria en el estado Sucre,Venezuela.
 -----------------------------------
@@ -129,7 +129,7 @@ TRABAJO ESPECIAL DE GRADO (SISTEMAS DE INFORMACION)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 115
+Tesis #: 114
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Desarrollo de una herramienta para migración de bases de datos desde lossistemas manejadores de bases de datos Oracle y PostgreSQL hacia el sistemamanejador de bases de datos Adabas D.
 -----------------------------------
@@ -142,7 +142,7 @@ TRABAJO ESPECIAL DE GRADO (BASES DE DATOS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 116
+Tesis #: 115
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Desarrollo de un sistema web para la administración de encuestas en líneabasado en tecnología XML.
 -----------------------------------
@@ -155,7 +155,7 @@ TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 117
+Tesis #: 116
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Reestructuración y definición de los modelos dimensionales del datawarehouse de cantv movilnet y migración de aplicaciones de entrega deinformación
 -----------------------------------
@@ -168,7 +168,7 @@ TRABAJO ESPECIAL DE GRADO (BASES DE DATOS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 118
+Tesis #: 117
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Desarrollo de una aplicación web para el manejo del personaladministrativo del instituto universitario de estudios musicales.
 -----------------------------------
@@ -181,7 +181,7 @@ TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 119
+Tesis #: 118
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Desarrollo de una aplicación web para el manejo del personal estudiantil ydocente del instituto universitario de estudios musicales (IUDEM).
 -----------------------------------
@@ -194,7 +194,7 @@ TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 120
+Tesis #: 119
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Implementación de mecanismos para a definición y verificación derestricciones de integridad globales en bases de datos distribuidas Oracle10g.
 -----------------------------------
@@ -207,7 +207,7 @@ TRABAJO ESPECIAL DE GRADO (BASES DE DATOS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 124
+Tesis #: 123
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Una Aplicación de Seguridad para el Laboratorio Ícaro basada en cámarasinalámbricas  usando el estándar H.323  -Fase lado del Servidor-
 -----------------------------------
@@ -220,7 +220,7 @@ TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMUNICACIONES Y REDES DECOMPUTADORAS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 125
+Tesis #: 124
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Desarrollo de Nuevos Servicios Móviles de Bibliotecas Digitales Basados enAgentes, para la Biblioteca Alonso Gamero
 -----------------------------------
@@ -233,7 +233,7 @@ TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMUNICACIONES Y REDES DECOMPUTADORAS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 126
+Tesis #: 125
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Construcción de un Middleware de Aplicación que Permita la Interconexiónde Dispositivos Fijos y Móviles, por Medio de Servicios Web, en una Red deComunicaciones
 -----------------------------------
@@ -246,7 +246,7 @@ TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMUNICACIONES Y REDES DECOMPUTADORAS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 127
+Tesis #: 126
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Desarrollo de un Sistema de Gestión de Asignación de Computadorasutilizando la Tecnología del Carnet Universitario Inteligente
 -----------------------------------
@@ -259,7 +259,7 @@ TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMUNICACIONES Y REDES DECOMPUTADORAS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 128
+Tesis #: 127
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Evaluación Experimental del Desempeño del Video Bajo Demanda MPEG4 enRedes Bluetooth
 -----------------------------------
@@ -272,7 +272,7 @@ TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMUNICACIONES Y REDES DECOMPUTADORAS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 129
+Tesis #: 128
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Implantación del protocolo de enrutamiento AODV en Windows CE 5.0
 -----------------------------------
@@ -285,7 +285,7 @@ TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMUNICACIONES Y REDES DECOMPUTADORAS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 130
+Tesis #: 129
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Análisis, Diseño y Desarrollo de un Soporte Didáctico, utilizandoDispositivos PDA y el Protocolo de Comunicación Bluetooth
 -----------------------------------
@@ -298,7 +298,7 @@ TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMUNICACIONES Y REDES DECOMPUTADORAS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 131
+Tesis #: 130
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Diseño de la Red Inalámbrica de la Facultad de Ciencias de la UniversidadCentral de Venezuela
 -----------------------------------
@@ -311,7 +311,7 @@ TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMUNICACIONES Y REDES DECOMPUTADORAS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 132
+Tesis #: 131
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Diseño e Implementación de un Punto de Acceso Inalámbrico bajo el EstándarIEEE 802.11b
 -----------------------------------
@@ -324,7 +324,7 @@ En el marco actual donde se desenvuelven los mercados de las tecnologíasde la i
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 133
+Tesis #: 132
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Diseño e Implementación de un Punto de Acceso Informativo InalámbricoUsando IrDA y Bluetooth
 -----------------------------------
@@ -337,7 +337,7 @@ TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMUNICACIONES Y REDES DECOMPUTADORAS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 134
+Tesis #: 133
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Diseño y automatización del proceso para el Manejo de la Disponibilidad delos servicios tecnológicos del Banco Mercantil, según ITIL
 -----------------------------------
@@ -350,7 +350,7 @@ TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMUNICACIONES Y REDES DECOMPUTADORAS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 135
+Tesis #: 134
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Análisis del Establecimiento de la Conexión Bandabase en Implementacionesde Diversos Fabricantes de Dispositivos Bluetooth
 -----------------------------------
@@ -363,7 +363,7 @@ TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMUNICACIONES Y REDES DECOMPUTADORAS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 136
+Tesis #: 135
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Integración de las tecnologías IEEE 802.11b (WLAN) y CDMA 1xRTT (WWAN)mediante el Protocolo IP Móvil.
 -----------------------------------
@@ -376,7 +376,7 @@ TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMUNICACIONES Y REDES DECOMPUTADORAS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 137
+Tesis #: 136
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Desarrollo de un Sistema de Monitoreo Maternal para la Transmisión deAudio y Video en Tiempo Real, utilizando las Tecnologías Inalámbricas Wi-Fiy Bluetooth.
 -----------------------------------
@@ -389,7 +389,7 @@ TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMUNICACIONES Y REDES DECOMPUTADORAS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 138
+Tesis #: 137
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Evaluación de los Mecanismos y Protocolos de Seguridad Desarrollados paraRedes Bluetooth
 -----------------------------------
@@ -402,7 +402,7 @@ TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMUNICACIONES Y REDES DECOMPUTADORAS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 140
+Tesis #: 139
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Evaluación de los Mecanismos y Protocolos de Seguridad desarrollados paraRedes Inalámbricas 802.11b
 -----------------------------------
@@ -415,7 +415,7 @@ TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMUNICACIONES Y REDES DECOMPUTADORAS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 141
+Tesis #: 140
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Desarrollo de un Software de Administración Y Configuración para un Puntode Acceso Inalámbrico 802.11b
 -----------------------------------
@@ -428,7 +428,7 @@ TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMUNICACIONES Y REDES DECOMPUTADORAS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 142
+Tesis #: 141
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Análisis del Rendimiento de VoIP en Redes 802.11b/g
 -----------------------------------
@@ -441,7 +441,7 @@ TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMUNICACIONES Y REDES DECOMPUTADORAS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 144
+Tesis #: 143
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Implementación de una Red IPv6 Móvil
 -----------------------------------
@@ -454,7 +454,7 @@ TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMUNICACIONES Y REDES DECOMPUTADORAS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 145
+Tesis #: 144
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Diseño, Construcción y Programación de Robots Móviles para la Captura yTransmisión de Eventos Físicos vía Bluetooth
 -----------------------------------
@@ -467,7 +467,7 @@ TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMUNICACIONES Y REDES DECOMPUTADORAS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 146
+Tesis #: 145
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Diseño y Evaluación de un Sistema de Distribución Inalámbrica para laFacultad de Ciencias
 -----------------------------------
@@ -480,7 +480,7 @@ TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMUNICACIONES Y REDES DECOMPUTADORAS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 148
+Tesis #: 147
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Desarrollo de un sistema de gestión de robot móviles para lamonitorización de variables ambientales
 -----------------------------------
@@ -493,7 +493,7 @@ TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMUNICACIONES Y REDES DECOMPUTADORAS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 149
+Tesis #: 148
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Implementación de un sistema para el manejo de correo electrónico conautenticación centralizada basada en servicios de directorio
 -----------------------------------
@@ -506,7 +506,7 @@ TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMUNICACIONES Y REDES DECOMPUTADORAS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 150
+Tesis #: 149
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Propuesta para solucionar el problema de comunicación telefónica en laFacultad de Ciencias de la UCV utilizando un servidor PBX de software
 -----------------------------------
@@ -519,7 +519,7 @@ TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMUNICACIONES Y REDES DECOMPUTADORAS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 151
+Tesis #: 150
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Diseño e Implementación de un Sincronizador de Datos Corporativos basadoen Tecnología Web
 -----------------------------------
@@ -532,7 +532,7 @@ TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMUNICACIONES Y REDES DECOMPUTADORAS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 154
+Tesis #: 153
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Actualización y consulta de bases de datos Oracle a través del World WideWeb
 -----------------------------------
@@ -545,7 +545,7 @@ TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 155
+Tesis #: 154
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Ambiente de manejo de datos Orientado a Objeto para una herramienta CASE
 -----------------------------------
@@ -558,7 +558,7 @@ TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 156
+Tesis #: 155
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Ampliación de una plataforma operacional para la gerencia de eventos
 -----------------------------------
@@ -571,7 +571,7 @@ TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 157
+Tesis #: 156
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 AUTOMATIZACION DE LA ADMINISTRACION DEL AMBIENTE DE LOS SISTEMASFINANCIEROS DE PEQUIVEN (MILLENNIUM)
 -----------------------------------
@@ -584,7 +584,7 @@ TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 158
+Tesis #: 157
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Automatización de los Procesos de Pre-Inscripción y Académicos realizadosen el Postgrado de Física
 -----------------------------------
@@ -597,7 +597,7 @@ TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 159
+Tesis #: 158
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 BASE DE DATOS ORIENTADA A OBJETO PARA EL SISTEMA MAPEX
 -----------------------------------
@@ -610,7 +610,7 @@ TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 160
+Tesis #: 159
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Desarrollo de un Data Warehouse como herramienta de apoyo para el SectorSalud
 -----------------------------------
@@ -623,7 +623,7 @@ TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 161
+Tesis #: 160
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Desarrollo del Modulo Académico de SIGEPOST: Sistema de Gestión para laCoordinación de Postgrado de la Facultad de Ciencias de la UCV
 -----------------------------------
@@ -636,7 +636,7 @@ TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 162
+Tesis #: 161
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Prototipo de Sistema experto para identificar los diferentes órdenes demamíferos como apoyo didáctico al personal docente de biología.
 -----------------------------------
@@ -649,7 +649,7 @@ TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFICIAL)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 163
+Tesis #: 162
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Prototipo de Sistema Experto para Precomité
 -----------------------------------
@@ -662,7 +662,7 @@ TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFICIAL)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 164
+Tesis #: 163
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 RECONOCEDOR DE MOLECULAS DE AZÚCARES EN COMPUESTOS DE FLAVONOIDES USANDOEL MODELO AUTO-ORGANIZATIVO DE KOHONEN
 -----------------------------------
@@ -675,7 +675,7 @@ TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFICIAL)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 166
+Tesis #: 165
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Prototipo de Sistema Experto para la Identificación de Especies delsubgénero Panicum, género Panicum, familia de las Gramíneas
 -----------------------------------
@@ -688,7 +688,7 @@ TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFICIAL)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 167
+Tesis #: 166
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Sistema Basado en Conocimiento para la Identificación de Especies delGénero Panicum, Familia de las Gramíneas
 -----------------------------------
@@ -701,7 +701,7 @@ TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFICIAL)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 168
+Tesis #: 167
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Redes Neuronales Modulares para Inversión de Datos Sísmicos
 -----------------------------------
@@ -714,7 +714,7 @@ TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFICIAL)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 169
+Tesis #: 168
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Prototipo de un Agente Inteligente de Recomendación para un PeriódicoWeb
 -----------------------------------
@@ -727,7 +727,7 @@ TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFICIAL)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 170
+Tesis #: 169
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Implementación y especificación de una herramienta para el desarrollo deaplicaciones Web dinámicas autónomas
 -----------------------------------
@@ -740,7 +740,7 @@ TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 171
+Tesis #: 170
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Generación de Formularios Web y Estructuras de Procesamiento a partir deInformación Dinámica con uso de XML
 -----------------------------------
@@ -753,7 +753,7 @@ TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 172
+Tesis #: 171
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Desarrollo de un Sistema de Pruebas Automatizadas para Sitios Web
 -----------------------------------
@@ -766,7 +766,7 @@ TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 174
+Tesis #: 173
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Desarrollo de una Aplicación Web para la División de Control de Estudiosque automatice la Asignación de Horarios y Aulas en el proceso deinscripción de alumnos de pregrado de la Facultad de Ciencias
 -----------------------------------
@@ -779,7 +779,7 @@ TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 179
+Tesis #: 178
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 NotiCiencias en Línea, Mejoramiento Continuo
 -----------------------------------
@@ -792,7 +792,7 @@ TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 180
+Tesis #: 179
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Fundación Amigos de Ciencias-UCV en el Ciberespacio: Desarrollo del SitioWeb y su Extranet
 -----------------------------------
@@ -805,7 +805,7 @@ TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 181
+Tesis #: 180
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Web Course Facility: Una Herramienta de Generación de Sitios Web, comoApoyo a los Cursos de la Escuela de Computación
 -----------------------------------
@@ -818,7 +818,7 @@ TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 182
+Tesis #: 181
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Generador de Sitios Web para Elecciones Universitarias de la UCV
 -----------------------------------
@@ -831,7 +831,7 @@ TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 183
+Tesis #: 182
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 NotiCiencias en línea: Desarrollo del Sitio Web y el Módulo deMantenimiento
 -----------------------------------
@@ -844,7 +844,7 @@ TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 185
+Tesis #: 184
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Desarrollo de un Prototipo de Manejador de Base de Datos con campos detipo gráfico y de una Aplicación.
 -----------------------------------
@@ -857,7 +857,7 @@ TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 187
+Tesis #: 186
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Análisis y Evaluación de Métodos para Mejoramiento y Reducción del Tiempode Ejecución de Consultas en Bases de Datos de Alta Densidad
 -----------------------------------
@@ -870,7 +870,7 @@ TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 188
+Tesis #: 187
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Implementación de Mecanismos para la Definición y Verificación deRestricciones de Integridad Globales en Bases de Datos Distribuidas Oracle10g
 -----------------------------------
@@ -883,7 +883,7 @@ TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 190
+Tesis #: 189
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Prototipo que permita analizar y garantizar la calidad de los datosmanejados en una de las bases de datos corporativas de la C.A. Electricidadde Caracas.
 -----------------------------------
@@ -896,7 +896,7 @@ TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 191
+Tesis #: 190
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 UN SISTEMA DE BASE DE DATOS DISTRIBUIDA PARA UNA CADENA DE TIENDAS
 -----------------------------------
@@ -909,7 +909,7 @@ TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 192
+Tesis #: 191
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Verificación de Restricciones de Integridad Globales en TransaccionesAnidadas Distribuidas sobre un Cluster de Oracle9i
 -----------------------------------
@@ -922,7 +922,7 @@ TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 193
+Tesis #: 192
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Experiencia en el Desarrollo de Sistemas de Bases de Datos DistribuidasHomogéneas Basados en la Web. Caso de Estudio: Agencias Nacionales deEmpleo - Venezuela
 -----------------------------------
@@ -935,7 +935,7 @@ TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 195
+Tesis #: 194
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 PROTOTIPO DE SISTEMA BASADO EN AGENTES INTELIGENTES PARA LA IDENTIFICACIÓNDE ESPECIES DEL GÉNERO PANICUM, FAMILIA DE LAS GRAMÍNEAS
 -----------------------------------
@@ -948,7 +948,20 @@ TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFICIAL)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 202
+Tesis #: 197
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Un Sistema basado en Agentes para la Búsqueda y RecomendaciónPersonalizada de Recursos Académicos en Internet
+-----------------------------------
+Se ha establecido como objetivo de esté Trabajo Especial de Grado,desarrollar un sistema para la búsqueda y recomendación de recursosacadémicos y científicos en Internet referentes al área de la computación,que se encuentre basado en tecnologías tales como: Cliente/Servidor,Aplicaciones con Tecnología Internet, Inteligencia Artificial, AgentesInteligentes y Sistemas basados en Agente, con el fin de proporcionar unservido personalizado a un gran número de usuarios, que sea accesible desdecualquier lugar y se encuentre disponible en todo momento. Para eldesarrollo de esta herramienta se empleará la tecnología de agentesinteligentes y técnicas de inteligencia artificial con el fin de verificarlas ventajas que puede proporcionar este paradigma en cuanto al aprendizajede las preferencias e intereses de usuarios, a fin de prestar serviciopersonalizados de búsqueda, filtrado y recomendación de información. Se aplica la metodología Common-KADS a partir de la cuál se ha llevado acabo el análisis y diseño del sistema.
+-----------------------------------
+TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFICIAL)
+-----------------------------------
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Tesis #: 200
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Herramienta de Minería de Datos: Prototipo del módulo de desarrollo yaprendizaje de redes neuronales supervisadas
 -----------------------------------
@@ -961,7 +974,7 @@ TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFICIAL)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 203
+Tesis #: 201
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Sistema basado en conocimiento en ambiente web para el apoyo a laidentificación de Bacilos Gram Negativos No Fermentadores de la Glucosa
 -----------------------------------
@@ -974,7 +987,7 @@ TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFICIAL)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 204
+Tesis #: 202
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Aplicación cliente/servidor para el reconocimiento de canciones con redesneuronales
 -----------------------------------
@@ -987,7 +1000,7 @@ TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFICIAL)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 205
+Tesis #: 203
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Ontología de Insectos Acuáticos
 -----------------------------------
@@ -1000,7 +1013,7 @@ TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFICIAL)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 206
+Tesis #: 204
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 DEUSWEB Generador de sitios web administrativos basados en la ingenieríade reverso al modelo de datos
 -----------------------------------
@@ -1013,7 +1026,7 @@ TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 207
+Tesis #: 205
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Medición y Visualización de Métricas de software para Frameworks Web. Casode estudio: Ruby on Ralis y Frameworks en Java
 -----------------------------------
@@ -1026,7 +1039,7 @@ TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 208
+Tesis #: 206
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Metodología para la auditoría de seguridad de Aplicaciones Web
 -----------------------------------
@@ -1039,7 +1052,7 @@ TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 209
+Tesis #: 207
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Prototipo de un manejador de imágenes distribuido usando el SMBDINFORMIX.
 -----------------------------------
@@ -1052,7 +1065,7 @@ TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 210
+Tesis #: 208
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Método de construcción de aplicaciones en una Intranet con acceso a basede datos orientadas a objetos
 -----------------------------------
@@ -1065,7 +1078,7 @@ TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 211
+Tesis #: 209
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Generador de una Biblioteca Electrónica utilizando Base de Datos XMLNativas de uso libre. Caso de estudio material didáctico sobre FrameRelay
 -----------------------------------
@@ -1078,7 +1091,7 @@ TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 213
+Tesis #: 211
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Herramienta de Minería de Datos: Prototipo del Módulo de PreprocesamientoNormalización y Redución de Dimensionalidad
 -----------------------------------
@@ -1091,7 +1104,7 @@ TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFICIAL)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 217
+Tesis #: 215
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Prototipo de un Portal de Mercado de Empleos bajo el enfoque de la WebSemántica
 -----------------------------------
@@ -1104,7 +1117,7 @@ TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFICIAL)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 221
+Tesis #: 219
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Catálogos Inteligentes: Una herramienta para la construcción yadministración de catálogos en el Web
 -----------------------------------
@@ -1117,7 +1130,7 @@ TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 223
+Tesis #: 221
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 WebMater, Una Herramienta para el Desarrollo de Sitios Web de ProfesoresUniversitarios
 -----------------------------------
@@ -1130,7 +1143,7 @@ TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 224
+Tesis #: 222
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Desarrollo de una Aplicación Web para el Control de Solicitudes deServicio para la Dirección de Tecnología de Información y Comunicaciones dela UCV
 -----------------------------------
@@ -1143,7 +1156,7 @@ TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 225
+Tesis #: 223
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Generador de Unidades Temáticas en el Web
 -----------------------------------
@@ -1156,7 +1169,7 @@ TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 226
+Tesis #: 224
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Mi escuela en Internet: Una herramienta para la generación de sitios webescolares
 -----------------------------------
@@ -1169,7 +1182,7 @@ TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 227
+Tesis #: 225
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Desarrollo de un Datamart como herramienta de apoyo a la Epidemiología
 -----------------------------------
@@ -1182,7 +1195,7 @@ TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 228
+Tesis #: 226
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Integración de objetos multimedia en una base de datos para elenriquecimiento del proceso de historias médicas
 -----------------------------------
@@ -1195,7 +1208,7 @@ TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 229
+Tesis #: 227
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Rediseño y Automatización de los Procesos de Atención al Usuario delCentro de Computación
 -----------------------------------
@@ -1208,7 +1221,7 @@ TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 230
+Tesis #: 228
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Desarrollo del Sitio Web del Laboratorio de Base de Datos del Centro deInvestigación de Sistemas de Información (CISI)
 -----------------------------------
@@ -1221,7 +1234,7 @@ TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 231
+Tesis #: 229
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Desarrollos de los Módulos Promociones y Administrativo-Ingresos deSIGEPOST: Sistema de Gestión de Postgrado de la Facultad de Ciencias
 -----------------------------------
@@ -1234,7 +1247,7 @@ TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 232
+Tesis #: 230
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Módulo de Preinscripción para un Sistema de Gestión para los Procesos dela Coordinación de Postgrado de la Facultad de Ciencias
 -----------------------------------
@@ -1247,7 +1260,7 @@ TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 233
+Tesis #: 231
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Módulo Administrativo para el Control y Manejo de los Egresos de laCoordinación de Postgrado de la Facultad de Ciencias de la UCV
 -----------------------------------
@@ -1260,7 +1273,7 @@ TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 234
+Tesis #: 232
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Automatización del Sistema de Procesamiento de Información del ModeloDeportivo de la Universidad Central de Venezuela
 -----------------------------------
@@ -1273,7 +1286,7 @@ TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 235
+Tesis #: 233
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 APLICAR LA METODOLOGÍA OOSE PARA EL ANÁLISIS Y CONSTRUCCIÓN DEL SISTEMAWEB DE CONTROL DE ESTUDIOS CENTRAL DEL POSTGRADO
 -----------------------------------
@@ -1286,7 +1299,7 @@ TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 236
+Tesis #: 234
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Automatización del Sistema de Procesamiento de Información de la Cátedrade Clínica Estomatológica de la Facultad de Odontología de la UniversidadCentral de Venezuela
 -----------------------------------
@@ -1299,7 +1312,7 @@ TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 237
+Tesis #: 235
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Sistema móvil iCRM (integrated Customer Relationship Management) paraplataformas Palm que se sincroniza a una Base de Datos Consolidada
 -----------------------------------
@@ -1312,7 +1325,7 @@ TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 238
+Tesis #: 236
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Estudio Comparativo de los Sistemas Manejadores de Bases de DatosRelacional Objeto (SMBDRO) Oracle y Sybase en cuanto a las facilidades queofrecen para el Desarrollo de Aplicaciones Web
 -----------------------------------
@@ -1325,7 +1338,7 @@ TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 239
+Tesis #: 237
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Desarrollo de un Data warehouse basado en Indicadores de Gestión en elÁrea Educativa, para la Escuela de Química, Facultad de Ciencias de laUCV
 -----------------------------------
@@ -1338,7 +1351,7 @@ TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 241
+Tesis #: 239
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Desarrollo de una Herramienta para Migración de bases de datos desde losSistemas Manejadoras de Bases de Datos Oracle y PostgreSQL hacia el SistemaManejador de Bases de Datos Adabas D
 -----------------------------------
@@ -1351,7 +1364,7 @@ TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Tesis #: 243
+Tesis #: 241
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Automatización de los procesos de información en un Laboratorio de Salud
 -----------------------------------

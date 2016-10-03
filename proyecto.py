@@ -69,6 +69,9 @@ from pprint import pprint
 docWord = textract.process('datos/Datos_proyecto.doc')
 #     Se remplazan los fin de linea por caracteres identificables
 docWord = docWord.replace("',\n\n'","'\n\n").replace(')\'\n\n\n',')\'~')
+docWord = docWord.replace(".\'\n\nT",".\'T").replace("n.\n\nS","n. S")
+docWord = docWord.replace("T\'\n\'T","T.\',\'T")
+#pprint(docWord)
 docWord = docWord.replace(')\',\n\n\n',')\'~').replace('\',\n\n','\',')
 docWord = docWord.replace('\n\n','~').replace('~\n','~').replace('~~','~')
 #     Se remplazan los delimitadores para hacer split posteriormente
@@ -76,6 +79,7 @@ docWord = docWord.replace("\n",'').replace("\',",'@').replace('\'','').replace('
 #	Se separa el string por el doble salto de linea para obtener cada tesis por separado
 #	Se crea una lista con los elementos obtenidos
 docWord = docWord.split('~')
+
 # 	Quito la cabecera del titulo, descripcion, palabras claves y el area de la tesis
 for i in range(0,4):
 	docWord.pop(0)
@@ -84,12 +88,15 @@ tesis = []
 for i in docWord:
 	tesis.append(i.split('@'))
 
+#pprint(tesis)
+
 for i in tesis:
 	if len(i)>4:
 		tesis.remove(i)
 
+
 for j,i in enumerate(tesis):
-	if len(i)==3:
+	if len(i)<4:
 		print "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
 		print "Tesis #: "+str(j)
 		print "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
@@ -97,7 +104,6 @@ for j,i in enumerate(tesis):
 			print j
 			print "-----------------------------------"
 		print "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n\n\n"
-
 
 """
 -------------------------------------------------------------

@@ -1,0 +1,3064 @@
+                                     Titulo de tesis  \
+0  SISTEMA DE INFORMACIÓN PARA LA PLANIFICACIÓN D...   
+
+                                             resumen  \
+0  ESTE TRABAJO ESPECIAL DE GRADO CONTEMPLA EL DE...   
+
+                                      palabras clave  \
+0  PMBOK (PROJECT MANAGEMET BODY OF KNOWLEDGE  GU...   
+
+                                     mencion  
+0  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                     Titulo de tesis  \
+1  SOPORTE DIDÁCTICO PARA LA ENSEÑANZA DEL USO DE...   
+
+                                             resumen  \
+1  EL OBJETIVO GENERAL DEL TRABAJO ESPECIAL DE GR...   
+
+                                      palabras clave  \
+1  SOPORTE DIDÁCTICO PARA LA ENSEÑANZA DEL USO DE...   
+
+                                            mencion  
+1  TRABAJO ESPECIAL DE GRADO (TECNOLOGIA EDUCATIVA)  
+
+
+
+                                     Titulo de tesis  \
+2  SISTEMA DE AUTENTICACIÓN SIGILOSA CON TERMINAL...   
+
+                                             resumen    palabras clave  \
+2  EL PROPÓSITO DE ESTE TRABAJO ES IMPLEMENTAR UN...  SEGURIDAD  CAPAS   
+
+                                             mencion  
+2  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                     Titulo de tesis  \
+3  DESARROLLO DE UNA HERRAMIENTA PARA LA INTERPRE...   
+
+                                             resumen  \
+3  LAS MÁQUINAS DE SOPORTE VECTORIAL (SVM) SON SI...   
+
+                                      palabras clave  \
+3  MÁQUINAS DE SOPORTE VECTORIAL  EXTRACCIÓN DE R...   
+
+                                             mencion  
+3  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                                     Titulo de tesis  \
+4  HERRAMIENTA PARA LA EXTRACCIÓN AUTOMÁTICA DE C...   
+
+                                             resumen  \
+4  EL ANÁLISIS DE LÍQUIDO SEMINAL (ALS) O ESPERMO...   
+
+                                      palabras clave  \
+4  MORFOLOGÍA ESPERMÁTICA  INTELIGENCIA ARTIFICIA...   
+
+                                             mencion  
+4  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                                     Titulo de tesis  \
+5  EASY EXTRACTOR: UN SISTEMA DE CLASIFICACIÓN DE...   
+
+                                             resumen  \
+5  LA INFORMACIÓN EN LA WEB SE ENCUENTRA EN CAMBI...   
+
+                                 palabras clave  \
+5  MOZILLA  XUL  WEB  APLICACIÓN  SERVICIOS WEB   
+
+                                             mencion  
+5  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                     Titulo de tesis  \
+6  INSTANCIACIÓN DE UNA SOLUCIÓN ERP CÓDIGO ABIER...   
+
+                                             resumen  \
+6  EN ESTE TRABAJO SE PRESENTA PARA EL SECTOR SAL...   
+
+                                      palabras clave  \
+6  HISTORIA CLÍNICA DIGITAL  ERP (ENTERPRISE RESO...   
+
+                                             mencion  
+6  TRABAJO ESPECIAL DE GRADO (SISTEMAS DE INFORMA...  
+
+
+
+                                     Titulo de tesis  \
+7  DISEÑO Y DESARROLLO DE UNA NUEVA APLICACIÓN WE...   
+
+                                             resumen  \
+7  ESTE TRABAJO DE LA FACULTAD DE CIENCIAS DE LA ...   
+
+                                      palabras clave  \
+7  UCV  ESCUELA DE COMPUTACIÓN  APLICACIÓN WEB  T...   
+
+                                             mencion  
+7  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                     Titulo de tesis  \
+8  VISIÓN ARTIFICIAL PARA DETECCIÓN Y UBICACIÓN E...   
+
+                                             resumen palabras clave  \
+8  EL CENTRO DE COMPUTACIÓN GRÁFICA (CCG) EN CONJ...     ISOTRAK II   
+
+                                           mencion  
+8  TRABAJO ESPECIAL DE GRADO (COMPUTACION GRAFICA)  
+
+
+
+                                     Titulo de tesis  \
+9  REINGENIERÍA DE UN SISTEMA DE SEGUNDA OPINIÓN ...   
+
+                                             resumen  \
+9  UNO DE LOS SERVICIOS FUNDAMENTALES EN TELEMEDI...   
+
+                                      palabras clave  \
+9  APLICACIONES WEB TELEMEDICINA SEGUNDA OPINION ...   
+
+                                             mencion  
+9  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                      Titulo de tesis  \
+10  ELABORACIÓN DE UN PROTOTIPO DE BUSCADOR DE DOC...   
+
+                                              resumen  \
+10  EL PRESENTE TRABAJO ESPECIAL DE GRADO ABORDA E...   
+
+                                  palabras clave  \
+10  BUSCONEST  CONEST  BIBLIOTECA  RUBY ON RAILS   
+
+                                              mencion  
+10  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                      Titulo de tesis  \
+11  ADMIN UCV NGN: APLICACIÓN DE CÓDIGO ABIERTO PA...   
+
+                                              resumen  \
+11  EL PRESENTE TRABAJO ESPECIAL DE GRADO CONSISTE...   
+
+                                       palabras clave  \
+11  ADMINISTRACIÓN DE REDES  IPV4  IPV6  SNMP  MIB...   
+
+                                              mencion  
+11  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                      Titulo de tesis  \
+12  GENERADOR GRÁFICO DE CONSULTAS PARA LA RECUPER...   
+
+                                              resumen  \
+12  EN LA ACTUALIDAD  LA MAYORÍA DE LOS SISTEMAS D...   
+
+                         palabras clave  \
+12  PLUGIN  ECLIPSE  SQL  BASE DE DATOS   
+
+                                              mencion  
+12  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                      Titulo de tesis  \
+13  ACTUALIZACIÓN TECNOLÓGICA PARA EL INSTITUTO NA...   
+
+                                              resumen palabras clave  \
+13  EL INTTT PRETENDE INCORPORAR LA NUEVA FORMA DE...           None   
+
+                                              mencion  
+13  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                      Titulo de tesis  \
+14  DESARROLLO DE UN GENERADOR DE SITIOS WEB PARA ...   
+
+                                              resumen  \
+14  EN EL PRESENTE TRABAJO DE INVESTIGACIÓN SE PRO...   
+
+                                       palabras clave  \
+14  ONTOLOGÍA  SITIOS WEB  VISUALIZACIÓN DE ONTOLO...   
+
+                                              mencion  
+14  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                                      Titulo de tesis  \
+15  DESARROLLO DE UN PORTAL WEB PARA APOYAR EL APR...   
+
+                                              resumen  \
+15  ESTE TRABAJO (ENMARCADO DENTRO DEL PROYECTO FO...   
+
+                                       palabras clave  \
+15  APRENDIZAJE COLABORATIVO  APRENDIZAJE ORGANIZA...   
+
+                                             mencion  
+15  TRABAJO ESPECIAL DE GRADO (TECNOLOGIA EDUCATIVA)  
+
+
+
+                                      Titulo de tesis  \
+16  DESARROLLO DE UN SISTEMA WEB DE GESTIÓN  CONTR...   
+
+                                              resumen palabras clave  \
+16  HOY EN DÍA EL USO DE LAS TECNOLOGÍAS DE INFORM...           None   
+
+                                              mencion  
+16  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                      Titulo de tesis  \
+17  SISTEMA AUTOMATIZADO PARA LA GESTIÓN DE SOLICI...   
+
+                                              resumen palabras clave  \
+17  EL ACELERADO AVANCE EN TECNOLOGÍAS DE INFORMAC...           None   
+
+                                              mencion  
+17  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                      Titulo de tesis  \
+18  DISEÑO Y DESARROLLO DE PLATAFORMA INTEGRADA GS...   
+
+                                              resumen  \
+18  EL OBJETIVO DEL PRESENTE TRABAJO ESPECIAL DE G...   
+
+                                       palabras clave  \
+18  SMPP  SHORT MESSAGE PEER TO PEER  SMS  SHORT M...   
+
+                                              mencion  
+18  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                      Titulo de tesis  \
+19  EVALUACIÓN DE FRAMEWORKS WEB USANDO TÉCNICAS D...   
+
+                                              resumen  \
+19  ESTE TRABAJO ABARCA LOS SIGUIENTES TÓPICOS: FR...   
+
+                                       palabras clave  \
+19  MÉTRICAS STRUTS2  JAVA SERVER FACES  SERVICIO ...   
+
+                                              mencion  
+19  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                      Titulo de tesis  \
+20  TETRAEDRIZACIÓN DE INTERVALOS DE VOLUMEN MEDIA...   
+
+                                              resumen  \
+20  LOS DOS MÉTODOS PRINCIPALES PARA LA VISUALIZAC...   
+
+                                       palabras clave  \
+20  DATOS VOLUMÉTRICOS  ISOSUPERFICIES  INTERVALOS...   
+
+                                            mencion  
+20  TRABAJO ESPECIAL DE GRADO (COMPUTACION GRAFICA)  
+
+
+
+                                      Titulo de tesis  \
+21  DESARROLLO DE UN SISTEMA DE GESTIÓN ESCOLAR US...   
+
+                                              resumen  \
+21  PARA EL DESARROLLO DEL SISTEMA DE GESTIÓN ESCO...   
+
+                                  palabras clave  \
+21  AJAX  SISTEMA  WEB  GESTIÓN ESCOLAR  CEAPUCV   
+
+                                              mencion  
+21  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                      Titulo de tesis  \
+22  APRENDA TOKEN RING: SISTEMA DIDACTICO PARA LA ...   
+
+                                              resumen  \
+22  EL PRESENTE TRABAJO ESPECIAL DE GRADO CONSISTE...   
+
+                                       palabras clave  \
+22  TOKEN RING  SISTEMA DIDÁCTICO  TOPOLOGÍA DE AN...   
+
+                                              mencion  
+22  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                      Titulo de tesis  \
+23  HERRAMIENTA DE APOYO PARA LA FORMULACIÓN DE PR...   
+
+                                              resumen  \
+23  A TRAVÉS DE ESTE TRABAJO ESPECIAL DE GRADO SE ...   
+
+                                       palabras clave  \
+23  PROYECTOS SOCIOPRODUCTIVOS  GOBIERNO ELECTRÓNI...   
+
+                                              mencion  
+23  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                      Titulo de tesis  \
+24  GENERATO: GENERADOR DE SITIOS WEB ADMINISTRATI...   
+
+                                              resumen  \
+24  GENERATO ES UNA APLICACIÓN QUE RECIBE COMO ENT...   
+
+                                       palabras clave  \
+24   GENERADORDEUSWEB GENERATO APLICACIONES WEB AD...   
+
+                                              mencion  
+24  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                      Titulo de tesis  \
+25  SISTEMA DE INFORMACION PARA LA MEDICIÓN Y ANÁL...   
+
+                                              resumen  \
+25  EL PRESENTE TRABAJO ESPECIAL DE GRADO TIENE CO...   
+
+                                       palabras clave  \
+25  COMUNICACIÓN  WEB  MEDIOS  PRENSA ESCRITA  ANÁ...   
+
+                                              mencion  
+25  TRABAJO ESPECIAL DE GRADO (SISTEMAS DE INFORMA...  
+
+
+
+                                      Titulo de tesis  \
+26  UN GENERADOR DE PERIÓDDICOS COMUNALES: LLEVAND...   
+
+                                              resumen  \
+26  A LO LARGO DE ESTE TRABAJO ESPECIAL DE GRADO S...   
+
+                                       palabras clave  \
+26  PERIODISMO  PERIÓDICO  PERIODISMO COMUNAL  PER...   
+
+                                              mencion  
+26  TRABAJO ESPECIAL DE GRADO (INGENIERIA DE SOFTW...  
+
+
+
+                                      Titulo de tesis  \
+27  SISTEMA DE INFORMACIÓN PARA EL MANEJO DE CORRE...   
+
+                                              resumen  \
+27  EL OBJETIVO DEL PRESENTE TRABAJO ESPECIAL DE G...   
+
+                                       palabras clave  \
+27  SISTEMAS DE INFORMACIÓN TRANSACCIONAL  WORKFLO...   
+
+                                      mencion  
+27  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                      Titulo de tesis  \
+28  IMPLEMENTACIÓN DE UN SISTEMA DE SEGURIDAD PARA...   
+
+                                              resumen  \
+28  EN LA ACTUALIDAD  LA FACULTAD DE CIENCIAS OFRE...   
+
+                                       palabras clave  \
+28  RED INALÁMBRICA  AUTENTICACIÓN  RADIUS  LDAP  ...   
+
+                                              mencion  
+28  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                      Titulo de tesis  \
+29  INTEGRACIÓN DEL REPOSITORIO DE AMBAR CON EL RE...   
+
+                                              resumen  \
+29  EL PRESENTE TRABAJO CONSISTE EN LA INTEGRACIÓN...   
+
+                                       palabras clave  \
+29  OBJETOS DE APRENDIZAJE (OA)  METADATA  REPOSIT...   
+
+                                      mencion  
+29  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                      Titulo de tesis  \
+30  AUTOMATIZACIÓN DE PROCESOS RELACIONADOS CON LA...   
+
+                                              resumen  \
+30  EL OBJETIVO DEL PRESENTE TRABAJO ESPECIAL DE G...   
+
+                                       palabras clave  \
+30  TECNOLOGÍAS PARA EL DESARROLLO DE APLICACIONES...   
+
+                                      mencion  
+30  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                      Titulo de tesis  \
+31  SEGMENTACIÓN SEMIAUTOMÁTICA DE IMÁGENES DIGITA...   
+
+                                              resumen  \
+31  EN LA ACTUALIDAD LA SEGMENTACIÓN DE IMÁGENES A...   
+
+                                       palabras clave  \
+31  SEGMENTACIÓN  IMAGEN  DIGITAL  IMÁGENES DIGITA...   
+
+                                            mencion  
+31  TRABAJO ESPECIAL DE GRADO (COMPUTACION GRAFICA)  
+
+
+
+                                      Titulo de tesis  \
+32  DESARROLLO DE UN MÓDULO DE GENERACIÓN DE REPOR...   
+
+                                              resumen  \
+32  ACTUALMENTE LA DIVISIÓN DE CONTROL DE ESTUDIOS...   
+
+                                   palabras clave  \
+32  REPORTE  RUBY ON RAILS  WIZARD  MYSQL  VISTAS   
+
+                                              mencion  
+32  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                      Titulo de tesis  \
+33  ESTUDIO DE DESEMPEÑO EN UN AMBIENTE DE COMUNIC...   
+
+                                              resumen  \
+33  LA SIGUIENTE INVESTIGACIÓN TRATA DE PRESENTAR ...   
+
+                                       palabras clave  \
+33  ESTÁNDAR 802151  WPAN  SIG BLUETOOTH  PICONET ...   
+
+                                              mencion  
+33  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                      Titulo de tesis  \
+34  IMPLANTACION DE UNA PLATAFORMA DE SOFTWARE COL...   
+
+                                              resumen  \
+34  EN ESTE TRABAJO SE DESARROLLÓ E IMPLANTÓ UNA A...   
+
+                                       palabras clave  \
+34  INTRANET  COMUNICACIÓN  CENTRALIZACIÓN  SISTEM...   
+
+                                              mencion  
+34  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                      Titulo de tesis  \
+35  DESARROLLO DE UN PROTOTIPO DE APLICACIÓN WEB P...   
+
+                                              resumen  \
+35  EN LA UNIDAD ACADÉMICA DE LA COORDINACIÓN DE P...   
+
+                                       palabras clave  \
+35  COORDINACIÓN DE POSTGRADO  ACADÉMICO  AUTOMATI...   
+
+                                              mencion  
+35  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                      Titulo de tesis  \
+36  UNA HERRAMIENTA BASADA EN TECNOLOGÍA PALM PILO...   
+
+                                              resumen  \
+36  EL BANCO DE LA GENTE EMPRENDEDORA TIENE PLANTE...   
+
+                                       palabras clave  \
+36  ESTRATEGIA ORGANIZACIONAL  PROCESOS  INTERFASE...   
+
+                                              mencion  
+36  TRABAJO ESPECIAL DE GRADO (SISTEMAS DE INFORMA...  
+
+
+
+                                      Titulo de tesis  \
+37  PRECONDICIONAMIENTO POR APROXIMACIONES A LA MA...   
+
+                                              resumen  \
+37  DADA UNA MATRIZ A EN RMXNCON M >> N  DE RANGO ...   
+
+                                       palabras clave  \
+37  ÁLGEBRA LINEAL NUMÉRICA  MÍNIMOS CUADRADOS  PR...   
+
+                                           mencion  
+37  TRABAJO ESPECIAL DE GRADO (CALCULO CIENTIFICO)  
+
+
+
+                                      Titulo de tesis  \
+38  ESTUDIO DE DESEMPEÑO EN UN AMBIENTE DE COMUNIC...   
+
+                                              resumen  \
+38  LA SIGUIENTE INVESTIGACIÓN TRATA DE PRESENTAR ...   
+
+                                       palabras clave  \
+38  ESTÁNDAR 802151  WPAN  SIG BLUETOOTH  PICONET ...   
+
+                                              mencion  
+38  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                      Titulo de tesis  \
+39  ELABORACIÓN DE UN GEM DE RUBY QUE ENCAPSULE UN...   
+
+                                              resumen  \
+39  EL PRESENTE TRABAJO ESPECIAL DE GRADO TIENE CO...   
+
+                 palabras clave  \
+39  SMS  RUBY  GEM  COMANDOS AT   
+
+                                              mencion  
+39  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                      Titulo de tesis  \
+40  DESARROLLO DE UNA APLICACIOON WEB DE PROGRAMA ...   
+
+                                              resumen  \
+40  EL OBJETIVO DE ESTE TRABAJO ESPECIAL DE GRADO ...   
+
+                                       palabras clave  \
+40  PROGRAMA DE INCENTIVOS  CARRITO DE COMPRA  MET...   
+
+                                              mencion  
+40  TRABAJO ESPECIAL DE GRADO (INGENIERIA DE SOFTW...  
+
+
+
+                                      Titulo de tesis  \
+41  WRADVS: UN SERVIDOR DE AUTOCONFIGURACIÓN SIN E...   
+
+                                              resumen  \
+41  EL PRESENTE TRABAJO ESPECIAL DE GRADO CONSISTE...   
+
+                                       palabras clave  \
+41  STATELESS AUTOCONFIGURATION  ROUTER ADVERTISEM...   
+
+                                              mencion  
+41  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                      Titulo de tesis  \
+42  REDISEÑO DE LA APLICACIÓN WEB PARA LA DIVULGAC...   
+
+                                              resumen  \
+42  EN ESTE TRABAJO  SE REFLEJAN LOS ASPECTOS METO...   
+
+                                       palabras clave  \
+42  PROGRAMA  COOPERACIÓN  INTERFACULTADES  PCI  U...   
+
+                                              mencion  
+42  TRABAJO ESPECIAL DE GRADO (SISTEMAS DISTRIBUID...  
+
+
+
+                                      Titulo de tesis  \
+43  DESARROLLO DE LA APLICACIÓN DE GESTIÓN ACADÉMI...   
+
+                                              resumen  \
+43  EL OBJETIVO DE ESTE TRABAJO ESPECIAL DE GRADO ...   
+
+                                       palabras clave  \
+43  CONEST  CONEST 20  MODELO VISTA CONTROLADOR (M...   
+
+                                              mencion  
+43  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                      Titulo de tesis  \
+44  DESARROLLO DE UNA APLICACIÓN COLABORATIVA VÍA ...   
+
+                                              resumen  \
+44  ACTUALMENTE ES DE GRAN INTERÉS EL PROVEER HERR...   
+
+                                       palabras clave  \
+44  APLICACIÓN COLABORATIVA  REUNIONES ELECTRÓNICA...   
+
+                                              mencion  
+44  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                      Titulo de tesis  \
+45  GESTIÓN DE HISTORIAS MEDICAS DE HOSPITALIZACIO...   
+
+                                              resumen  \
+45  EN EL PRESENTE TRABAJO ESPECIAL DE GRADO SE DE...   
+
+                                       palabras clave  \
+45  HISTORIAS MÉDICAS  DISPOSITIVOS MÓVILES  REDES...   
+
+                                              mencion  
+45  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                      Titulo de tesis  \
+46  IMPLEMENTACIÓN DE UNA ARQUITECTURA DE RED WLAN...   
+
+                                              resumen  \
+46  LA EMPRESA CGSI  CA (CONSULTORÍA GLOBAL EN SEG...   
+
+                                       palabras clave  \
+46  REDES INALÁMBRICAS  WLAN  IEEE 80211  WIFI  SE...   
+
+                                              mencion  
+46  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                      Titulo de tesis  \
+47  PROTOTIPO DEL SISTEMA DE GESTIÓN DE PREPARADOR...   
+
+                                              resumen  \
+47  EL DESARROLLO DEL PRESENTE TRABAJO  CONSTITUYE...   
+
+                                       palabras clave  \
+47  GESTIÓN DE PREPARADORES  GESTIÓN POR PROCESOS ...   
+
+                                              mencion  
+47  TRABAJO ESPECIAL DE GRADO (INGENIERA DE SOFTWARE)  
+
+
+
+                                      Titulo de tesis  \
+48  MODELADO DEL PROCESO DE GESTIÓN DE CAMBIOS SEG...   
+
+                                              resumen  \
+48  LA LIBRERÍA DE INFRAESTRUCTURA DE TECNOLOGÍA D...   
+
+                                       palabras clave  \
+48  BPM   BPMS   INTALIO   ITIL   PROCESO DE GESTI...   
+
+                                              mencion  
+48  TRABAJO ESPECIAL DE GRADO (SISTEMAS DE INFORMA...  
+
+
+
+                                      Titulo de tesis  \
+49  SISTEMA DE GESTIÓN DE SERVICIOS DE RESERVACIÓN...   
+
+                                              resumen  \
+49  EL PRESENTE TRABAJO ESPECIAL DE GRADO TIENE CO...   
+
+                                       palabras clave  \
+49  SISTEMA DE INFORMACIÓN  CONTROL DE INVENTARIO ...   
+
+                                              mencion  
+49  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                      Titulo de tesis  \
+50  DESARROLLO DE UNA SOLUCIÓN DE INTELIGENCIA DE ...   
+
+                                              resumen  \
+50  EL PRESENTE TRABAJO ESPECIAL DE GRADO (TEG) CO...   
+
+                                       palabras clave  \
+50  INTELIGENCIA DE NEGOCIO   DATAWAREHOUSE   PENT...   
+
+                                              mencion  
+50  TRABAJO ESPECIAL DE GRADO (SISTEMAS DE INFORMA...  
+
+
+
+                                      Titulo de tesis  \
+51  IMPLEMENTACIÓN DE UN DISPOSITIVO INTEGRADO DE ...   
+
+                                              resumen  \
+51  EL PRESENTE TRABAJO ESPECIAL DE GRADO CONSISTE...   
+
+                                       palabras clave  \
+51  UTM  SEGURIDAD INFORMÁTICA  LPT  HACKERS  SERV...   
+
+                                              mencion  
+51  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                      Titulo de tesis  \
+52  ADECUACIÓN A AMBIENTES GRID DE DOS APLICACIONE...   
+
+                                              resumen  \
+52  HOY EN DÍA  LAS APLICACIONES OPERATIVAS O EN D...   
+
+               palabras clave  \
+52  GRID  GLITE  BRAMS  AIRES   
+
+                                              mencion  
+52  TRABAJO ESPECIAL DE GRADO (SISTEMAS DISTRIBUID...  
+
+
+
+                                      Titulo de tesis  \
+53  ANIMACIONES DE ALGORITMOS DISTRIBUIDOS PARA DE...   
+
+                                              resumen  \
+53  SE DESARROLLA UNA HERRAMIENTA MONOPROCESADORA ...   
+
+                                       palabras clave  \
+53  ALGORITMOS DISTRIBUIDOS  DETECCIÓN TERMINACIÓN...   
+
+                                              mencion  
+53  TRABAJO ESPECIAL DE GRADO (SISTEMAS DISTRIBUID...  
+
+
+
+                                      Titulo de tesis  \
+54  DESARROLLO DEL SISTEMA DE GESTIÓN ACADÉMICA CO...   
+
+                                              resumen  \
+54  MÓDULO DE REPORTES  CONSTANCIAS Y TAREAS EN LO...   
+
+                                       palabras clave  \
+54  CONEST  CONEST 20  RUBY  RAILS  MYSQL  BACKGRO...   
+
+                                      mencion  
+54  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                      Titulo de tesis  \
+55  DESARROLLO DE UNA APLICACIÓN ADAPTATIVA PARA E...   
+
+                                              resumen  \
+55  EL PRESENTE TRABAJO ESPECIAL DE GRADO CONSISTE...   
+
+                                       palabras clave  \
+55  REDES   DISPOSITIVOS INALÁMBRICOS   DISPOSITIV...   
+
+                                              mencion  
+55  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                      Titulo de tesis  \
+56  ORGANIZACIÓN  GESTIÓN Y ANÁLISIS DE DATOS DE L...   
+
+                                              resumen  \
+56  UNO DE LOS PRINCIPALES PROBLEMAS ENCONTRADOS E...   
+
+                                       palabras clave  \
+56  MASCOMMONKADS  MULTIAGENTES  SUELOS  GESTIONAR...   
+
+                                              mencion  
+56  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                                      Titulo de tesis  \
+57  SISTEMA DE GESTIÓN DE PREPARADORES PARA LA FAC...   
+
+                                              resumen  \
+57  LA GESTIÓN DE PREPARADORES NO ESTÁ AUTOMATIZAD...   
+
+                                       palabras clave  \
+57  PREPARADORES  PRESUPUESTO  MOVIMIENTO DE PERSO...   
+
+                                              mencion  
+57  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                      Titulo de tesis  \
+58  PROTOTIPO DEL SISTEMA DE GESTIÓN DE PREPARADOR...   
+
+                                              resumen  \
+58   EL PROPÓSITODE ESTE TRABAJO ESPECIAL DE GRADO...   
+
+                                       palabras clave  \
+58  GESTIÓN DE PREPARADORES  GESTIÓN POR PROCESOS ...   
+
+                                              mencion  
+58  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                      Titulo de tesis  \
+59  DESARROLLO DE UN MÓDULO QUE PERMITA MANEJAR EV...   
+
+                                              resumen  \
+59  EN LA UNIDAD ACADÉMICA DE LA COORDINACIÓN DE P...   
+
+                                       palabras clave  \
+59  COORDINACIÓN DE POSTGRADOS  WORKFLOW  ESTUDIAN...   
+
+                                              mencion  
+59  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                      Titulo de tesis  \
+60  FRAMEWORK BASADO EN COLONIAS DE HORMIGAS ARTIF...   
+
+                                              resumen  \
+60  EN EL TRABAJO SE REALIZÓ UN ESTUDIO A PROFUNDI...   
+
+                                       palabras clave  \
+60  COLONIAS DE HORMIGAS  FRAMEWORK  OPTIMIZACIÓN ...   
+
+                                              mencion  
+60  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                                      Titulo de tesis  \
+61  DISEÑO E IMPLEMENTACIÓN DE UN SERVICIO DE EMAI...   
+
+                                              resumen  \
+61  EL PRESENTE TRABAJO ESPECIAL DE GRADO ESTÁ ENF...   
+
+                                       palabras clave  \
+61  SPAM EMAIL ZIMBRA POSTFIX SPAMASSASSIN MTA COR...   
+
+                                              mencion  
+61  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                      Titulo de tesis  \
+62  DESARROLLO DE UNA APLICACIÓN WEB PARA EL CENTR...   
+
+                                              resumen  \
+62  EL PRESENTE TRABAJO ESPECIAL DE GRADO EXPONE E...   
+
+                                       palabras clave  \
+62  MEDIOS DE PAGO  PROCESADORA DE MEDIOS DE PAGO ...   
+
+                                             mencion  
+62  TRABAJO ESPECIAL DE GRADO (TECNOLOGIA EDUCATIVA)  
+
+
+
+                                      Titulo de tesis  \
+63  IMPLEMENTACIÓN DE UN PROTOCOLO DE ENRUTAMIENTO...   
+
+                                              resumen  \
+63  EL PRESENTE TRABAJO ESPECIAL DE GRADO CONSISTE...   
+
+                                       palabras clave  \
+63  EIGRP  RTP  DUAL  CISCO SYSTEMS  PROTOCOLO DE ...   
+
+                                              mencion  
+63  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                      Titulo de tesis  \
+64  MEJORAS AL PROTOTIPO DE SISTEMA DE INFORMACIÓN...   
+
+                                              resumen  \
+64  ESTE TRABAJO ESPECIAL DE GRADO (TEG) COMPRENDE...   
+
+                                       palabras clave  \
+64  PROYECTO  GESTIÓN DE PROYECTO  HERRAMIENTAS Y ...   
+
+                                      mencion  
+64  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                      Titulo de tesis  \
+65  PROPUESTA DE DISEÑO DE UNA SOLUCIÓN DE VIDEOVI...   
+
+                                              resumen  \
+65  DEBIDO A LOS DIVERSOS ATAQUES EN LOS QUE SE HA...   
+
+                                       palabras clave  \
+65  WLAN  IEEE 80211  QUALITY OF SERVICE  QOS  DIF...   
+
+                                              mencion  
+65  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                      Titulo de tesis  \
+66  DESARROLLO DE UN AGENTE PARA LA CAPTURA DE DAT...   
+
+                                              resumen  \
+66  EL ESTUDIO Y CLASIFICACIÓN DE SUELOS RESULTA S...   
+
+                                       palabras clave  \
+66  AGENTE  CAPTURA DE DATOS  DISPOSITIVO MÓVIL  J...   
+
+                                              mencion  
+66  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                                      Titulo de tesis  \
+67  DESARROLLO DEL MÓDULO WEBQUEST BASADO EN LA ES...   
+
+                                              resumen  \
+67  EL PRESENTE TRABAJO CONSISTE EN EL DISEÑO E IM...   
+
+                                       palabras clave  \
+67  ESTRATEGIA DE APRENDIZAJE  WEBQUEST  APRENDIZA...   
+
+                                              mencion  
+67  TRABAJO ESPECIAL DE GRADO (INGENIERIA DE SOFTW...  
+
+
+
+                                      Titulo de tesis  \
+68  PROTOTIPO DE UN PROCESO PARA LA EXTRACCIÓN  TR...   
+
+                                              resumen  \
+68  IMPLANTACIÓN DE UN PROCESO AUTOMATIZADO PARA L...   
+
+                                       palabras clave  \
+68  DESARROLLO RÁPIDO DE APLICACIONES  ÍNDICE ACAD...   
+
+                                              mencion  
+68  TRABAJO ESPECIAL DE GRADO (INGENIERIA DE SOFTW...  
+
+
+
+                                      Titulo de tesis  \
+69  DESARROLLO DE UN SISTEMA DE INFORMACIÓN DE PRO...   
+
+                                              resumen  \
+69  EL DEPARTAMENTO DE ESTADÍSTICAS ECONÓMICAS DEL...   
+
+                                       palabras clave  \
+69  TURISMO  ESTABLECIMIENTOS TURÍSTICOS  TURISMO ...   
+
+                                              mencion  
+69  TRABAJO ESPECIAL DE GRADO (SISTEMAS DE INFORMA...  
+
+
+
+                                      Titulo de tesis  \
+70  GENERANDO SITIOS WEB DIRIGIDOS A PROFESIONALES...   
+
+                                              resumen  \
+70  ESTE TRABAJO ESPECIAL DE GRADO PRESENTA EL DES...   
+
+                                       palabras clave  \
+70  GENERADOR DE SITIOS WEB  PROFESIONALES INDEPEN...   
+
+                                              mencion  
+70  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                      Titulo de tesis  \
+71  PROPUESTA DE DISEÑO DE UNA SOLUCIÓN DE VIDEOVI...   
+
+                                              resumen  \
+71  DEBIDO A LOS DIVERSOS ATAQUES EN LOS QUE SE HA...   
+
+                                       palabras clave  \
+71  WLAN  IEEE 80211  QUALITY OF SERVICE  QOS  DIF...   
+
+                                              mencion  
+71  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                      Titulo de tesis  \
+72  SISTEMA DE INFORMACIÓN PARA LA PLANIFICACIÓN E...   
+
+                                              resumen  \
+72  SISTEMA QUE SE ENCARGA DE LA PLANIFICACIÓN EST...   
+
+                  palabras clave  \
+72  PLANIFICACIÓN ORGANIZACIONAL   
+
+                                              mencion  
+72  TRABAJO ESPECIAL DE GRADO (SISTEMAS DE INFORMA...  
+
+
+
+                                      Titulo de tesis  \
+73  DESARROLLO DE UNA APLICACIÓN PARA PROCESAR Y O...   
+
+                                              resumen  \
+73  EL OBJETIVO DEL PRESENTE TRABAJO ESPECIAL DE G...   
+
+                                       palabras clave  \
+73  PROCESAMIENTO DIGITAL DE IMÁGENES  OPTICAL CHA...   
+
+                                              mencion  
+73  TRABAJO ESPECIAL DE GRADO (SISTEMAS DE INFORMA...  
+
+
+
+                                      Titulo de tesis  \
+74  ANÁLISIS E IMPLEMENTACIÓNN DE UN ESQUEMA BÁSIC...   
+
+                                              resumen  \
+74  ACTUALMENTE LAS REDES DE ÁREA LOCAL SON TAN HA...   
+
+                                       palabras clave  \
+74  INTERNET  INTRANET   SEGURIDAD   SOFTWARE LIBR...   
+
+                                              mencion  
+74  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS DE LA C...  
+
+
+
+                                      Titulo de tesis  \
+75  DESARROLLO DE UN SISTEMA DE INFORMACIÓN COLABO...   
+
+                                              resumen  \
+75  EN ESTE TRABAJO ESPECIAL DE GRADO SE PRESENTA ...   
+
+                                       palabras clave  \
+75  SISTEMAS DE INFORMACIÓN  APLICACIONES DE TRABA...   
+
+                                              mencion  
+75  TRABAJO ESPECIAL DE GRADO (SISTEMAS DE INFORMA...  
+
+
+
+                                      Titulo de tesis  \
+76  DESARROLLO DE UNA HERRAMIENTA DE SOFTWARE LIBR...   
+
+                                              resumen  \
+76  EL PRESENTE TRABAJO ESPECIAL DE GRADO CONSISTE...   
+
+                                       palabras clave  \
+76  CENTRO DE DATOS  INTERFAZ ENRIQUECIDA O ENTORN...   
+
+                                              mencion  
+76  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                      Titulo de tesis  \
+77  DESARROLLO DE LOS MÓDULOS DE CONSTANCIAS Y DE ...   
+
+                                              resumen  \
+77  EN LA COORDINACIÓN DE POSTGRADO DE LA FACULTAD...   
+
+                                       palabras clave  \
+77  CONSTANCIA  MÓDULO  COORDINACIÓN DE POSTGRADO ...   
+
+                                              mencion  
+77  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                      Titulo de tesis  \
+78  PATRONES DE ACCESIBILIDAD WEB PARA LA CONSTRUC...   
+
+                                              resumen  \
+78  EN LA ACTUALIDAD Y DE MANERA GENERAL  EXISTE U...   
+
+                                       palabras clave  \
+78  ACCESIBILIDAD  ACCESIBILIDAD WEB  DISCAPACIDAD...   
+
+                                              mencion  
+78  TRABAJO ESPECIAL DE GRADO (INGENIERIA DE SOFTW...  
+
+
+
+                                      Titulo de tesis  \
+79  SISTEMA DE INFORMACIÓN PARA LA GESTIÓN DE LAS ...   
+
+                                              resumen  \
+79  EL PRESENTE TRABAJO ESPECIAL DE GRADO CONTEMPL...   
+
+                                       palabras clave  \
+79  PROYECTO  GESTIÓN DE PROYECTOS  GESTIÓN DE LAS...   
+
+                                      mencion  
+79  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                      Titulo de tesis  \
+80  DESARROLLO DE UNA APLICACIÓN WEB PARA LA BIBLI...   
+
+                                              resumen  \
+80  EL SIGUIENTE TRABAJO ESPECIAL DE GRADO ABORDA ...   
+
+                                       palabras clave  \
+80  UNIVERSIDAD CENTRAL DE VENEZUELA  FACULTAD DE ...   
+
+                                      mencion  
+80  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                      Titulo de tesis  \
+81  DESARROLLO DE UNA APLICACIÓN WEB PARA LA AUTOM...   
+
+                                              resumen  \
+81  LA UNIDAD DE SERVICIO COMUNITARIO REQUIERE LA ...   
+
+                                       palabras clave  \
+81  UNIDAD DE SERVICIO COMUNITARIO  SERVICIO COMUN...   
+
+                                              mencion  
+81  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                      Titulo de tesis  \
+82  SISTEMA DE GESTIÓN DE PUNTOS DE COMPROMISO Y P...   
+
+                                              resumen  \
+82  EL PRESENTE TRABAJO EXPONE FUNDAMENTOS CONCEPT...   
+
+                                       palabras clave  \
+82  SISTEMA DE GESTIÓN DE PUNTOS DE COMPROMISO Y P...   
+
+                                              mencion  
+82  TRABAJO ESPECIAL DE GRADO (APLICACIONES EN INT...  
+
+
+
+                                      Titulo de tesis  \
+83  SISTEMA CONTROL DE SOLICITUDES PARA PETICIONES...   
+
+                                              resumen  \
+83  EL SISTEMA DE CONTROL DE SOLICITUDES (SCS) ES ...   
+
+                                       palabras clave  \
+83   METODOLOGÍA DE DESARROLLO  ÁREAS DE CONOCIMIE...   
+
+                                      mencion  
+83  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                Titulo de tesis  \
+84  ESCÁNER 33D DE BAJO COSTO EMPLEANDO WEBCAMS   
+
+                                              resumen  \
+84  EN ESTE TRABAJO SE APLICAN CONCEPTOS Y MÉTODOS...   
+
+                                       palabras clave  \
+84  RECONSTRUCCIÓN 3D  VISIÓN ESTEREOSCÓPICA  CALI...   
+
+                                            mencion  
+84  TRABAJO ESPECIAL DE GRADO (COMPUTACION GRAFICA)  
+
+
+
+                                      Titulo de tesis  \
+85  PIZARRA INTERACTIVA DE BAJO COSTO UTILIZANDO W...   
+
+                                              resumen  \
+85  EN LA ACTUALIDAD EXISTEN DIVERSAS INTERFACES Q...   
+
+                                       palabras clave  \
+85  PIZARRA INTERACTIVA  VISIÓN POR COMPUTADOR  PR...   
+
+                                            mencion  
+85  TRABAJO ESPECIAL DE GRADO (COMPUTACION GRAFICA)  
+
+
+
+                                      Titulo de tesis  \
+86  PROPUESTA PARA LA IMPLEMENTACIÓN DE UN SERVICI...   
+
+                                              resumen  \
+86  EL OBJETIVO DEL PRESENTE TRABAJO ESPECIAL DE G...   
+
+                                       palabras clave  \
+86  IPV6  MULTICAST  HILOS MUSICALES  SERVIDOR DE ...   
+
+                                              mencion  
+86  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                      Titulo de tesis  \
+87  COLONOSCOPÍA VIRTUAL USANDO TÉCNICAS DE OPTIMI...   
+
+                                              resumen  \
+87  REALIZAR EL RENDER POR SOFTWARE DE UNA COLONOS...   
+
+                                       palabras clave  \
+87  VOLUME RENDERING  COLONOSCOPÃA VIRTUAL  RAY CA...   
+
+                                            mencion  
+87  TRABAJO ESPECIAL DE GRADO (COMPUTACION GRAFICA)  
+
+
+
+                                      Titulo de tesis  \
+88  DISEÑO DE LA RED DE ÁREA LOCAL INALÁMBRICA PAR...   
+
+                                              resumen  \
+88  EL PRESENTE TRABAJO ESPECIAL DE GRADO TIENE CO...   
+
+                                       palabras clave  \
+88   RED DE ÁREA LOCAL INALÁMBRICA  IEEE 80211  WI...   
+
+                                              mencion  
+88  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                      Titulo de tesis  \
+89  DESARROLLO DE UNA APLICACIÓN WEB PARA LA GESTI...   
+
+                                              resumen  \
+89  EL OBJETIVO DE ESTE TRABAJO ESPECIAL DE GRADO ...   
+
+                                       palabras clave  \
+89  HISTORIA CLÍNICA  HISTORIA CLÍNICA DIGITAL  IN...   
+
+                                              mencion  
+89  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                      Titulo de tesis  \
+90  PLATAFORMA PARA EL ESTUDIO Y DESARROLLO DE MÉT...   
+
+                                              resumen  \
+90  LOS MÉTODOS DE CONTINUACIÓN SON UNA HERRAMIENT...   
+
+                                       palabras clave  \
+90  MÉTODOS DE CONTINUACIÓN  SISTEMAS DE ECUACIONE...   
+
+                                           mencion  
+90  TRABAJO ESPECIAL DE GRADO (CALCULO CIENTIFICO)  
+
+
+
+                                      Titulo de tesis  \
+91  Sistema Multiagente para el análisis de semen ...   
+
+                                              resumen  \
+91  Los sistemas multiagente representan una soluc...   
+
+                                       palabras clave  \
+91  Sistema Multiagentes  JADE  Análisis de Semen ...   
+
+                                              mencion  
+91  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                                      Titulo de tesis  \
+92  Prototipo Funcional de un Sistema Basado en Co...   
+
+                                              resumen  \
+92  Se presenta en este trabajo el desarrollo de u...   
+
+                                       palabras clave  \
+92  Sistemas Basados en Conocimiento  CommonKADS  ...   
+
+                                              mencion  
+92  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                                      Titulo de tesis  \
+93  SISTEMA MULTIAGENTE PARA EL ANÁLISIS DE SEMEN ...   
+
+                                              resumen  \
+93  En el siguiente trabajo se describe el proceso...   
+
+                                       palabras clave  \
+93   Sistema multiagente  ontologías Protégé  INGE...   
+
+                                              mencion  
+93  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                                      Titulo de tesis  \
+94  Clasificación de la calidad del semen humano m...   
+
+                                              resumen  \
+94  En este trabajo se presenta una arquitectura h...   
+
+                                       palabras clave  \
+94  Razonamiento basado en casos  Razonamiento bas...   
+
+                                              mencion  
+94  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                                      Titulo de tesis  \
+95  DESARROLLO DE UNA APLICACIÓN EN AMBIENTE WEB P...   
+
+                                              resumen  \
+95  En este trabajo se propone el diseño  desarrol...   
+
+                                       palabras clave  \
+95  Ontología  Protégé  OWL  Visualización de Onto...   
+
+                                              mencion  
+95  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                                      Titulo de tesis  \
+96  Sistema Multiagente para el análisis de semen ...   
+
+                                              resumen  \
+96  En este Trabajo Especial de Grado se describe ...   
+
+                                       palabras clave  \
+96  Sistema Multiagente  Base de Datos  Plataforma...   
+
+                                              mencion  
+96  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                                      Titulo de tesis  \
+97  Un esquema híbrido de Razonamiento  Basado en ...   
+
+                                              resumen  \
+97  Los sistemas Híbridos integran varios subsiste...   
+
+                                       palabras clave  \
+97  Razonamiento basado en casos  razonamiento bas...   
+
+                                              mencion  
+97  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                                      Titulo de tesis  \
+98  DESARROLLO DE UNA APLICACIÓN EN AMBIENTE WEB P...   
+
+                                              resumen  \
+98  En los estudios de los ecosistemas de aguas co...   
+
+                                       palabras clave  \
+98  Ontología  insectos acuáticos  aplicación Web ...   
+
+                                              mencion  
+98  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                                      Titulo de tesis  \
+99  PROTOTIPO DE SISTEMA BASADO EN CONOCIMIENTO PA...   
+
+                                              resumen  \
+99  El Laboratorio de Ecología de Sistemas Acuátic...   
+
+                                       palabras clave  \
+99  Sistema Basado en Conocimiento  Agente Intelig...   
+
+                                              mencion  
+99  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                                       Titulo de tesis  \
+100  Ontología en ambiente Web para el dominio del ...   
+
+                                               resumen  \
+100  En este trabajo se presenta el desarrollo y co...   
+
+                                        palabras clave  \
+100  Ontologías  visualización de ontologías  metho...   
+
+                                               mencion  
+100  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                                       Titulo de tesis  \
+101  Herramienta de minería de datos: prototipo del...   
+
+                                               resumen  \
+101  En el Laboratorio de Inteligencia Artificial s...   
+
+                                        palabras clave  \
+101  Extracción de Reglas  Reglas de Clasificación ...   
+
+                                               mencion  
+101  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                                       Titulo de tesis  \
+102  Prototipo para el observatorio Socioeconómico ...   
+
+                                               resumen  \
+102  En el presente Trabajo Especial de Grado se de...   
+
+                                        palabras clave  \
+102  Observatorio  Comunidades  Asociaciones  Aplic...   
+
+                                       mencion  
+102  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                       Titulo de tesis  \
+103  Desarrollo del prototipo de una aplicación par...   
+
+                                               resumen palabras clave  \
+103  Actualmente  el uso de las Bases de Datos Dist...           None   
+
+                                       mencion  
+103  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                       Titulo de tesis  \
+104  Reingeniería del sistema de control de gestión...   
+
+                                               resumen  \
+104  El presente trabajo especial de grado #reingen...   
+
+                                        palabras clave  \
+104  Reingeniería de sistemas  rediseño  actualizac...   
+
+                                               mencion  
+104  TRABAJO ESPECIAL DE GRADO (INGENIERIA DE SOFTW...  
+
+
+
+                                       Titulo de tesis  \
+105  Desarrollo de una aplicación web para el contr...   
+
+                                               resumen palabras clave  \
+105  La federación venezolana de deportes acuáticos...           None   
+
+                                               mencion  
+105  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                       Titulo de tesis  \
+106  Centralización y estandarización de la autenti...   
+
+                                               resumen  \
+106  El presente Trabajo Especial de Grado consiste...   
+
+                                        palabras clave  \
+106  Integridad  Confidencialidad  Automatización  ...   
+
+                                               mencion  
+106  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                       Titulo de tesis  \
+107  Desarrollo de una aplicación para administrar ...   
+
+                                               resumen  \
+107  Mediante este documento se desea describir el ...   
+
+                                        palabras clave  \
+107  Emailmarketing  correos electrónicos  aplicaci...   
+
+                                               mencion  
+107  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                       Titulo de tesis  \
+108  Sistema de información para el seguimiento y c...   
+
+                                               resumen palabras clave  \
+108  Este Trabajo Especial de Grado contempla el de...           None   
+
+                                               mencion  
+108  TRABAJO ESPECIAL DE GRADO (SISTEMAS DE INFORMA...  
+
+
+
+                                       Titulo de tesis  \
+109  Sistema de medición y apoyo al sistema de gest...   
+
+                                               resumen  \
+109  El Área de Tecnología del Banco de Venezuela/G...   
+
+                                        palabras clave  \
+109  Calidad  Normas ISO  Procesos  Sistema de Gest...   
+
+                                               mencion  
+109  TRABAJO ESPECIAL DE GRADO (SISTEMAS DE INFORMA...  
+
+
+
+                                       Titulo de tesis  \
+110  Estudio del SMBDRO Oracle en cuanto a sus pote...   
+
+                                               resumen palabras clave  \
+110  Una de las principales tendencias de la inform...           None   
+
+                                        mencion  
+110  TRABAJO ESPECIAL DE GRADO (BASES DE DATOS)  
+
+
+
+                                       Titulo de tesis  \
+111  Implantación del libro de inventario basado en...   
+
+                                               resumen palabras clave  \
+111  Vivimos en un país que afronta constantes camb...           None   
+
+                                               mencion  
+111  TRABAJO ESPECIAL DE GRADO (INGENIERIA DE SOFTW...  
+
+
+
+                                       Titulo de tesis  \
+112  Desarrollo de una aplicación web constructora ...   
+
+                                               resumen palabras clave  \
+112  En los últimos años  en el área de la informát...           None   
+
+                                               mencion  
+112  TRABAJO ESPECIAL DE GRADO (INGENIERIA DE SOFTW...  
+
+
+
+                                       Titulo de tesis  \
+113  Análisis  diseño y construcción de un prototip...   
+
+                                               resumen palabras clave  \
+113  Desde el laboratorio de Modelaje Ecológico y A...           None   
+
+                                               mencion  
+113  TRABAJO ESPECIAL DE GRADO (SISTEMAS DE INFORMA...  
+
+
+
+                                       Titulo de tesis  \
+114  Desarrollo de una herramienta para migración d...   
+
+                                               resumen palabras clave  \
+114  En la actualidad  es necesario contar con herr...           None   
+
+                                        mencion  
+114  TRABAJO ESPECIAL DE GRADO (BASES DE DATOS)  
+
+
+
+                                       Titulo de tesis  \
+115  Desarrollo de un sistema web para la administr...   
+
+                                               resumen palabras clave  \
+115  La investigación de mercado involucra el uso d...           None   
+
+                                               mencion  
+115  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                       Titulo de tesis  \
+116  Reestructuración y definición de los modelos d...   
+
+                                               resumen palabras clave  \
+116  Es importante destacar que la mayoría de las e...           None   
+
+                                        mencion  
+116  TRABAJO ESPECIAL DE GRADO (BASES DE DATOS)  
+
+
+
+                                       Titulo de tesis  \
+117  Desarrollo de una aplicación web para el manej...   
+
+                                               resumen palabras clave  \
+117  El presente trabajo expone fundamentos concept...           None   
+
+                                               mencion  
+117  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                       Titulo de tesis  \
+118  Desarrollo de una aplicación web para el manej...   
+
+                                               resumen palabras clave  \
+118  El presente trabajo expone fundamentos teórico...           None   
+
+                                               mencion  
+118  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                       Titulo de tesis  \
+119  Implementación de mecanismos para a definición...   
+
+                                               resumen palabras clave  \
+119  Las Bases de Datos Distribuidas (BDD) cada día...           None   
+
+                                        mencion  
+119  TRABAJO ESPECIAL DE GRADO (BASES DE DATOS)  
+
+
+
+                                       Titulo de tesis  \
+120  Análisis y diseño de una plataforma de intelig...   
+
+                                               resumen  \
+120  El presente Trabajo Especial de Grado (TEG) co...   
+
+                                        palabras clave  \
+120  Pentaho  Inteligencia de Negocios  Datawarehou...   
+
+                                               mencion  
+120  TRABAJO ESPECIAL DE GRADO (SISTEMAS DE INFORMA...  
+
+
+
+                                       Titulo de tesis  \
+121  Evaluación de técnicas de creación y mantenimi...   
+
+                                               resumen  \
+121  El Sistema ANALISE  es un Sistema Multiagente ...   
+
+                                        palabras clave  \
+121  Análisis de Semen Humano  Razonamiento Basado ...   
+
+                                               mencion  
+121  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                                       Titulo de tesis  \
+122  Desarrollo de una aplicación web para la gesti...   
+
+                                               resumen  \
+122  En el presente Trabajo Especial de Grado (TEG)...   
+
+                                        palabras clave  \
+122  Workflow  Trabajo Colaborativo  Servicios Publ...   
+
+                                               mencion  
+122  TRABAJO ESPECIAL DE GRADO (SISTEMAS DE INFORMA...  
+
+
+
+                                       Titulo de tesis  \
+123  Una Aplicación de Seguridad para el Laboratori...   
+
+                                               resumen palabras clave  \
+123  Debido a la revolución de las redes inalámbric...           None   
+
+                                               mencion  
+123  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                       Titulo de tesis  \
+124  Desarrollo de Nuevos Servicios Móviles de Bibl...   
+
+                                               resumen palabras clave  \
+124  El rápido avance de la tecnología  ha originad...           None   
+
+                                               mencion  
+124  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                       Titulo de tesis  \
+125  Construcción de un Middleware de Aplicación qu...   
+
+                                               resumen palabras clave  \
+125  Una red informática  en su concepto más básico...           None   
+
+                                               mencion  
+125  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                       Titulo de tesis  \
+126  Desarrollo de un Sistema de Gestión de Asignac...   
+
+                                               resumen palabras clave  \
+126  El Carnet Universitario Inteligente aportado p...           None   
+
+                                               mencion  
+126  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                       Titulo de tesis  \
+127  Evaluación Experimental del Desempeño del Vide...   
+
+                                               resumen palabras clave  \
+127  Las Redes Inalámbricas de Area Local (WLANs  W...           None   
+
+                                               mencion  
+127  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                       Titulo de tesis  \
+128  Implantación del protocolo de enrutamiento AOD...   
+
+                                               resumen palabras clave  \
+128  En este tra bajo se presenta la implantación d...           None   
+
+                                               mencion  
+128  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                       Titulo de tesis  \
+129  Análisis  Diseño y Desarrollo de un Soporte Di...   
+
+                                               resumen palabras clave  \
+129  Los Asistentes Digitales Personales (PDA) son ...           None   
+
+                                               mencion  
+129  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                       Titulo de tesis  \
+130  Diseño de la Red Inalámbrica de la Facultad de...   
+
+                                               resumen palabras clave  \
+130  El presente trabajo especial de grado tiene co...           None   
+
+                                               mencion  
+130  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                       Titulo de tesis  \
+131  Diseño e Implementación de un Punto de Acceso ...   
+
+                                               resumen palabras clave  \
+131  En el marco actual donde se desenvuelven los m...           None   
+
+                                               mencion  
+131   TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COM...  
+
+
+
+                                       Titulo de tesis  \
+132  Diseño e Implementación de un Punto de Acceso ...   
+
+                                               resumen palabras clave  \
+132  Las telecomunicaciones en general y en especia...           None   
+
+                                               mencion  
+132  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                       Titulo de tesis  \
+133  Diseño y automatización del proceso para el Ma...   
+
+                                               resumen palabras clave  \
+133  Debido a la necesidad existente en algunas org...           None   
+
+                                               mencion  
+133  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                       Titulo de tesis  \
+134  Análisis del Establecimiento de la Conexión Ba...   
+
+                                               resumen palabras clave  \
+134  En el presente trabajo de investigación  se re...           None   
+
+                                               mencion  
+134  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                       Titulo de tesis  \
+135  Integración de las tecnologías IEEE 80211b (WL...   
+
+                                               resumen palabras clave  \
+135  Una de las necesidades que presentan los usuar...           None   
+
+                                               mencion  
+135  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                       Titulo de tesis  \
+136  Desarrollo de un Sistema de Monitoreo Maternal...   
+
+                                               resumen palabras clave  \
+136  Una de las consecuencias de la evolución tecno...           None   
+
+                                               mencion  
+136  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                       Titulo de tesis  \
+137  Evaluación de los Mecanismos y Protocolos de S...   
+
+                                               resumen palabras clave  \
+137  Las Redes de Área Local Inalámbricas con Tecno...           None   
+
+                                               mencion  
+137  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                       Titulo de tesis  \
+138  Desarrollo de una Herramienta para PDA’S para ...   
+
+                                               resumen  \
+138  La presente investigación se basa en el Desarr...   
+
+                                     palabras clave  \
+138  Software  Discapacidad  Ventas  PDA  Bluetooth   
+
+                                               mencion  
+138  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                       Titulo de tesis  \
+139  Evaluación de los Mecanismos y Protocolos de S...   
+
+                                               resumen palabras clave  \
+139  Las Redes de Area Local Inalámbricas represent...           None   
+
+                                               mencion  
+139  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                       Titulo de tesis  \
+140  Desarrollo de un Software de Administración Y ...   
+
+                                               resumen palabras clave  \
+140  Las Redes de Área Local Inalámbricas (Wireless...           None   
+
+                                               mencion  
+140  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                       Titulo de tesis  \
+141  Análisis del Rendimiento de VoIP en Redes 8021...   
+
+                                               resumen palabras clave  \
+141  La constante evolución de las redes inalámbric...           None   
+
+                                               mencion  
+141  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                       Titulo de tesis  \
+142  Desarrollo de una Aplicación Adaptativa para l...   
+
+                                               resumen  \
+142  A lo largo de su existencia  la Biblioteca Alo...   
+
+                                        palabras clave  \
+142  Biblioteca Digital  Dispositivos Móviles  Docu...   
+
+                                               mencion  
+142  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                          Titulo de tesis  \
+143  Implementación de una Red IPv6 Móvil   
+
+                                               resumen palabras clave  \
+143  El mundo de las comunicaciones avanza de maner...           None   
+
+                                               mencion  
+143  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                       Titulo de tesis  \
+144  Diseño  Construcción y Programación de Robots ...   
+
+                                               resumen palabras clave  \
+144  En este trabajo especial de grado se describe ...           None   
+
+                                               mencion  
+144  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                       Titulo de tesis  \
+145  Diseño y Evaluación de un Sistema de Distribuc...   
+
+                                               resumen palabras clave  \
+145  Las WLAN (Wireless Local Area Network  Redes d...           None   
+
+                                               mencion  
+145  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                       Titulo de tesis  \
+146  Aplicación Didáctica e Interactiva para Enseña...   
+
+                                               resumen  \
+146  El presente Trabajo Especial de Grado consisti...   
+
+                                        palabras clave  \
+146  Aplicación  ANSI C  Enseñanza  Aprendizaje  Al...   
+
+                                               mencion  
+146  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EDUCATI...  
+
+
+
+                                       Titulo de tesis  \
+147  Desarrollo de un sistema de gestión de robot m...   
+
+                                               resumen palabras clave  \
+147  Este Trabajo Especial de Grado describe el pro...           None   
+
+                                               mencion  
+147  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                       Titulo de tesis  \
+148  Implementación de un sistema para el manejo de...   
+
+                                               resumen palabras clave  \
+148  El presente Trabajo Especial de Grado está enf...           None   
+
+                                               mencion  
+148  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                       Titulo de tesis  \
+149  Propuesta para solucionar el problema de comun...   
+
+                                               resumen palabras clave  \
+149  El presente Trabajo Especial de Grado está bas...           None   
+
+                                               mencion  
+149  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                       Titulo de tesis  \
+150  Diseño e Implementación de un Sincronizador de...   
+
+                                               resumen palabras clave  \
+150   Las empresas cada día necesitan más sistemasc...           None   
+
+                                               mencion  
+150  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                       Titulo de tesis  \
+151  Herramienta para la gestión y administración d...   
+
+                                               resumen  \
+151  El presente Trabajo Especial de Grado está enf...   
+
+                         palabras clave  \
+151  Administración de redes  SNMP  MIB   
+
+                                               mencion  
+151  TRABAJO ESPECIAL DE GRADO (TECNOLOGIAS EN COMU...  
+
+
+
+                                       Titulo de tesis  \
+152  Capa de servicios de base de datos del Sistema...   
+
+                                               resumen  \
+152  El presente trabajo consiste en el análisis  d...   
+
+                                        palabras clave  \
+152  Servicios Web  Arquitectura SOAP  Base de Dato...   
+
+                                       mencion  
+152  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                       Titulo de tesis  \
+153  Actualización y consulta de bases de datos Ora...   
+
+                                               resumen palabras clave  \
+153  Hace aproximadamente 20 años  nació la red Int...           None   
+
+                                       mencion  
+153  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                       Titulo de tesis  \
+154  Ambiente de manejo de datos Orientado a Objeto...   
+
+                                               resumen palabras clave  \
+154  Desde los inicios de la civilización  la human...           None   
+
+                                       mencion  
+154  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                       Titulo de tesis  \
+155  Ampliación de una plataforma operacional para ...   
+
+                                               resumen palabras clave  \
+155  Marketing Technology Events (MTE) es una empre...           None   
+
+                                       mencion  
+155  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                       Titulo de tesis  \
+156  AUTOMATIZACION DE LA ADMINISTRACION DEL AMBIEN...   
+
+                                               resumen palabras clave  \
+156  PETROQUIMICA DE VENEZUELA  SA (PEQUIVEN)  es u...           None   
+
+                                       mencion  
+156  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                       Titulo de tesis  \
+157  Automatización de los Procesos de PreInscripci...   
+
+                                               resumen palabras clave  \
+157  Hoy en día  tanto organizaciones públicas como...           None   
+
+                                       mencion  
+157  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                       Titulo de tesis  \
+158  BASE DE DATOS ORIENTADA A OBJETO PARA EL SISTE...   
+
+                                               resumen palabras clave  \
+158  El desarrollo de software comprende un número ...           None   
+
+                                       mencion  
+158  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                       Titulo de tesis  \
+159  Desarrollo de un Data Warehouse como herramien...   
+
+                                               resumen palabras clave  \
+159  El presente trabajo consiste en el análisis  d...           None   
+
+                                       mencion  
+159  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                       Titulo de tesis  \
+160  Desarrollo del Modulo Académico de SIGEPOST: S...   
+
+                                               resumen palabras clave  \
+160  En nuestros días  las organizaciones que elabo...           None   
+
+                                       mencion  
+160  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                       Titulo de tesis  \
+161  Prototipo de Sistema experto para identificar ...   
+
+                                               resumen palabras clave  \
+161  En la Actualidad  la identificación de mamífer...           None   
+
+                                               mencion  
+161  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                                 Titulo de tesis  \
+162  Prototipo de Sistema Experto para Precomité   
+
+                                               resumen palabras clave  \
+162  Los Sistemas de Información hoy en día juegan ...           None   
+
+                                               mencion  
+162  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                                       Titulo de tesis  \
+163  RECONOCEDOR DE MOLECULAS DE AZÚCARES EN COMPUE...   
+
+                                               resumen palabras clave  \
+163  La computación neuronal es una rama de las cie...           None   
+
+                                               mencion  
+163  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                                     Titulo de tesis  \
+164  Redes Neurales aplicadas a la Telefonía Celular   
+
+                                               resumen  \
+164  Una manera de determinar fallas o focos de fal...   
+
+                                        palabras clave  \
+164  Telefonía celular  red de retropropagación  re...   
+
+                                               mencion  
+164  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                                       Titulo de tesis  \
+165  Prototipo de Sistema Experto para la Identific...   
+
+                                               resumen palabras clave  \
+165  Actualmente  en la Fundación Instituto Botánic...           None   
+
+                                               mencion  
+165  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                                       Titulo de tesis  \
+166  Sistema Basado en Conocimiento para la Identif...   
+
+                                               resumen palabras clave  \
+166  La identificación de especies del Género Panic...           None   
+
+                                               mencion  
+166  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                                       Titulo de tesis  \
+167  Redes Neuronales Modulares para Inversión de D...   
+
+                                               resumen palabras clave  \
+167  El estudio de la estructura y composición de l...           None   
+
+                                               mencion  
+167  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                                       Titulo de tesis  \
+168  Prototipo de un Agente Inteligente de Recomend...   
+
+                                               resumen palabras clave  \
+168  Los medios que ha empleado el ser humano para ...           None   
+
+                                               mencion  
+168  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                                       Titulo de tesis  \
+169  Implementación y especificación de una herrami...   
+
+                                               resumen palabras clave  \
+169  El desarrollo de aplicaciones Web ha tomado au...           None   
+
+                                               mencion  
+169  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                       Titulo de tesis  \
+170  Generación de Formularios Web y Estructuras de...   
+
+                                               resumen palabras clave  \
+170  Actualmente en Cantv existe un sistema que per...           None   
+
+                                               mencion  
+170  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                       Titulo de tesis  \
+171  Desarrollo de un Sistema de Pruebas Automatiza...   
+
+                                               resumen palabras clave  \
+171  Internet esta conformado por miles de sitios W...           None   
+
+                                               mencion  
+171  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                       Titulo de tesis  \
+172  Construcción de una Aplicación Web bajo la Arq...   
+
+                                               resumen  \
+172  La facilidad de acceso a la información existe...   
+
+                                        palabras clave  \
+172  Sistemas Distribuidos  Orquestación Servicios ...   
+
+                                               mencion  
+172  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                       Titulo de tesis  \
+173  Desarrollo de una Aplicación Web para la Divis...   
+
+                                               resumen palabras clave  \
+173  El objetivo de este Trabajo Especial de Grado ...           None   
+
+                                               mencion  
+173  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                       Titulo de tesis  \
+174  Simplificación del Mecanismo de Implantación y...   
+
+                                               resumen  \
+174  El presente Trabajo Especial de Grado contiene...   
+
+                                        palabras clave  \
+174  procesos de negocios  WSCDL  WSBPEL  coreograf...   
+
+                                               mencion  
+174  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                       Titulo de tesis  \
+175  Desarrollo de una Aplicación Web ClienteServid...   
+
+                                               resumen  \
+175  El objetivo de este Trabajo Especial de Grado ...   
+
+                                        palabras clave  \
+175  Aplicaciones Web  CONEST  Ruby on Rails  Base ...   
+
+                                               mencion  
+175  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                       Titulo de tesis  \
+176  Estimación de modelos de clasificación de pais...   
+
+                                               resumen  \
+176  Los procedimientos convencionales de cartograf...   
+
+                                        palabras clave  \
+176  Redes Neuronales no supervisadas  mapas autoor...   
+
+                                               mencion  
+176  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                                       Titulo de tesis  \
+177  Elaboración de un Gem de Ruby para Construir u...   
+
+                                               resumen  \
+177  El presente Trabajo Especial de Grado trata so...   
+
+                                   palabras clave  \
+177  RFID  Ruby  Middleware  ClienteServidor  Gem   
+
+                                               mencion  
+177  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                  Titulo de tesis  \
+178  NotiCiencias en Línea  Mejoramiento Continuo   
+
+                                               resumen palabras clave  \
+178  En el siguiente documento se expone el método ...           None   
+
+                                               mencion  
+178  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                       Titulo de tesis  \
+179  Fundación Amigos de CienciasUCV en el Ciberesp...   
+
+                                               resumen palabras clave  \
+179  En los últimos años ha aumentado considerablem...           None   
+
+                                               mencion  
+179  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                       Titulo de tesis  \
+180  Web Course Facility: Una Herramienta de Genera...   
+
+                                               resumen palabras clave  \
+180  En una revisión de los nuevos entornos educati...           None   
+
+                                               mencion  
+180  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                       Titulo de tesis  \
+181  Generador de Sitios Web para Elecciones Univer...   
+
+                                               resumen palabras clave  \
+181  Con la creciente expansión de la red de redes ...           None   
+
+                                               mencion  
+181  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                       Titulo de tesis  \
+182  NotiCiencias en línea: Desarrollo del Sitio We...   
+
+                                               resumen palabras clave  \
+182  Con el propósito de impulsar el alcance de Not...           None   
+
+                                               mencion  
+182  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                          Titulo de tesis  \
+183  Generador de Sitios Web de Alcaldías   
+
+                                               resumen  \
+183  Los Sitios Web  en el contexto de los gobierno...   
+
+                                        palabras clave  \
+183  Usabilidad  Lenguaje de Patrones de Interacció...   
+
+                                               mencion  
+183  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                       Titulo de tesis  \
+184  Desarrollo de un Prototipo de Manejador de Bas...   
+
+                                               resumen palabras clave  \
+184  El presente trabajo consiste en la elaboración...           None   
+
+                                       mencion  
+184  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                       Titulo de tesis  \
+185  Un Sistema Manejador de Base de Datos para Imá...   
+
+                                               resumen  \
+185  En la actualidad el desarrollo de sistemas de ...   
+
+                                        palabras clave  \
+185  CBIR  Sistemas Manejadores de Base de Datos  B...   
+
+                                       mencion  
+185  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                       Titulo de tesis  \
+186  Análisis y Evaluación de Métodos para Mejorami...   
+
+                                               resumen palabras clave  \
+186  El objetivo principal del presente Trabajo Esp...           None   
+
+                                       mencion  
+186  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                       Titulo de tesis  \
+187  Implementación de Mecanismos para la Definició...   
+
+                                               resumen palabras clave  \
+187  Las Bases de Datos Distribuidas (BDD) cada día...           None   
+
+                                       mencion  
+187  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                       Titulo de tesis  \
+188  Extensión del sistema HUYA XMLDB para acceso d...   
+
+                                               resumen  \
+188  En este trabajo se hizo un rediseño del Sistem...   
+
+                                        palabras clave  \
+188  Sistema Manejador de Bases de Datos Distribuid...   
+
+                                       mencion  
+188  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                       Titulo de tesis  \
+189  Prototipo que permita analizar y garantizar la...   
+
+                                               resumen palabras clave  \
+189  En este trabajo de investigación se pretende o...           None   
+
+                                       mencion  
+189  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                       Titulo de tesis  \
+190  UN SISTEMA DE BASE DE DATOS DISTRIBUIDA PARA U...   
+
+                                               resumen palabras clave  \
+190  Este trabajo tiene por objetivo el desarrollo ...           None   
+
+                                       mencion  
+190  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                       Titulo de tesis  \
+191  Verificación de Restricciones de Integridad Gl...   
+
+                                               resumen palabras clave  \
+191  En este Trabajo Especial de Grado se diseñó e ...           None   
+
+                                       mencion  
+191  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                       Titulo de tesis  \
+192  Experiencia en el Desarrollo de Sistemas de Ba...   
+
+                                               resumen palabras clave  \
+192  En este trabajo se presenta el análisis y desa...           None   
+
+                                       mencion  
+192  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                       Titulo de tesis  \
+193  Automatización del proceso de inscripción y co...   
+
+                                               resumen  \
+193  El problema de investigación propuesto es ¿Cuá...   
+
+                                        palabras clave  \
+193  Aplicación  Proceso de Inscripción  Control de...   
+
+                                       mencion  
+193  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                       Titulo de tesis  \
+194  PROTOTIPO DE SISTEMA BASADO EN AGENTES INTELIG...   
+
+                                               resumen palabras clave  \
+194  En Venezuela  existen instituciones dedicadas ...           None   
+
+                                               mencion  
+194  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                                       Titulo de tesis  \
+195  DIAGNÓSTICO AUTOMATIZADO DE AFECCIONES OFTALMO...   
+
+                                               resumen  \
+195  El problema que se resuelve en este Trabajo Es...   
+
+                                        palabras clave  \
+195  Procesamiento de Imágenes  Reconocimiento de O...   
+
+                                               mencion  
+195  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                                       Titulo de tesis  \
+196  Prototipo de un Sistema Basado en Conocimiento...   
+
+                                               resumen  \
+196  Se presenta en este trabajo el desarrollo de u...   
+
+                                        palabras clave  \
+196  Sistemas Basados en Conocimiento  CommonKADS  ...   
+
+                                               mencion  
+196  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                                       Titulo de tesis  \
+197  Un Sistema basado en Agentes para la Búsqueda ...   
+
+                                               resumen palabras clave  \
+197  Se ha establecido como objetivo de esté Trabaj...           None   
+
+                                               mencion  
+197  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                                       Titulo de tesis  \
+198  WebTREPAN: Sistema Interpretador de Modelos Ne...   
+
+                                               resumen  \
+198  Las redes neuronales han sido utilizadas para ...   
+
+                                        palabras clave  \
+198  redes neuronales  extracción de reglas  TREPAN...   
+
+                                               mencion  
+198  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                                       Titulo de tesis  \
+199  Herramienta de Minería de Datos: Prototipo del...   
+
+                                               resumen  \
+199  Las redes neuronales han adquirido una gran im...   
+
+                                        palabras clave  \
+199  Redes neuronales  LVQ  Mapas Autoorganizativos...   
+
+                                               mencion  
+199  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                                       Titulo de tesis  \
+200  Herramienta de Minería de Datos: Prototipo del...   
+
+                                               resumen palabras clave  \
+200  Desde hace varios años  algunos investigadores...           None   
+
+                                               mencion  
+200  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                                       Titulo de tesis  \
+201  Sistema basado en conocimiento en ambiente web...   
+
+                                               resumen palabras clave  \
+201  En este trabajo se presenta un Sistema Basado ...           None   
+
+                                               mencion  
+201  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                                       Titulo de tesis  \
+202  Aplicación cliente/servidor para el reconocimi...   
+
+                                               resumen palabras clave  \
+202  Durante años las personas escuchan radio y des...           None   
+
+                                               mencion  
+202  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                     Titulo de tesis  \
+203  Ontología de Insectos Acuáticos   
+
+                                               resumen palabras clave  \
+203  El conocimiento existente sobre los insectos a...           None   
+
+                                               mencion  
+203  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                                       Titulo de tesis  \
+204  DEUSWEB Generador de sitios web administrativo...   
+
+                                               resumen palabras clave  \
+204  El sistema DEUSWEB desanclado  tiene como obje...           None   
+
+                                               mencion  
+204  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                       Titulo de tesis  \
+205  Medición y Visualización de Métricas de softwa...   
+
+                                               resumen palabras clave  \
+205  En el presente Trabajo Especial de Grado se re...           None   
+
+                                               mencion  
+205  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                       Titulo de tesis  \
+206  Metodología para la auditoría de seguridad de ...   
+
+                                               resumen palabras clave  \
+206  Las aplicaciones web con frecuencia resultan s...           None   
+
+                                               mencion  
+206  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                       Titulo de tesis  \
+207  Prototipo de un manejador de imágenes distribu...   
+
+                                               resumen palabras clave  \
+207  El Manejador de Imágenes desarrollado en este ...           None   
+
+                                       mencion  
+207  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                       Titulo de tesis  \
+208  Método de construcción de aplicaciones en una ...   
+
+                                               resumen palabras clave  \
+208  Existe una gran diversidad de métodos orientad...           None   
+
+                                       mencion  
+208  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                       Titulo de tesis  \
+209  Generador de una Biblioteca Electrónica utiliz...   
+
+                                               resumen palabras clave  \
+209  El auge del Internet en los últimos años ha id...           None   
+
+                                       mencion  
+209  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                       Titulo de tesis  \
+210  Herramienta de Minería de Datos: Prototipo del...   
+
+                                               resumen  \
+210  En la actualidad se dispone de grandes acumula...   
+
+                                        palabras clave  \
+210  Minería de Datos  Datos Ausentes  Sustitución ...   
+
+                                               mencion  
+210  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                                       Titulo de tesis  \
+211  Herramienta de Minería de Datos: Prototipo del...   
+
+                                               resumen palabras clave  \
+211  Las bases de datos  compuestas generalmente po...           None   
+
+                                               mencion  
+211  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                                       Titulo de tesis  \
+212  Integración y Mejoramiento Continuo de la Herr...   
+
+                                               resumen  \
+212  El Laboratorio de Inteligencia Artificial y el...   
+
+                                        palabras clave  \
+212  Integración  Usabilidad  Unidades de Abstracci...   
+
+                                               mencion  
+212  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                                       Titulo de tesis  \
+213  Una Aplicación del Algoritmo KMedias para la A...   
+
+                                               resumen  \
+213  En este Trabajo Especial de Grado  se propone ...   
+
+                                        palabras clave  \
+213  Catalogación  Clasificación  Agrupamiento  Min...   
+
+                                               mencion  
+213  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                                       Titulo de tesis  \
+214  Extensiones (Plugins) de Eclipse para desarrol...   
+
+                                               resumen  \
+214  Agentes Software y Sistemas Multiagente (SMA) ...   
+
+                                        palabras clave  \
+214  Agentes  Sistemas Multiagente  JADE  JADEX  Ec...   
+
+                                               mencion  
+214  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                                       Titulo de tesis  \
+215  Prototipo de un Portal de Mercado de Empleos b...   
+
+                                               resumen palabras clave  \
+215  Se presenta en este trabajo el desarrollo de u...           None   
+
+                                               mencion  
+215  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                                       Titulo de tesis  \
+216  SISTEMA BASADO EN CONOCIMIENTO PARA APOYAR EL ...   
+
+                                               resumen  \
+216  El diagnóstico de la calidad del semen se real...   
+
+                                        palabras clave  \
+216  Análisis de Líquido Seminal  Sistemas basados ...   
+
+                                               mencion  
+216  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                                       Titulo de tesis  \
+217  Aplicación de las redes neuronales en la estim...   
+
+                                               resumen  \
+217  Entre las pruebas que se realizan en el anális...   
+
+                                        palabras clave  \
+217   Procesamiento deimágenes   redes neuronales  ...   
+
+                                               mencion  
+217  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                                       Titulo de tesis  \
+218  Evaluación de técnicas de creación y mantenimi...   
+
+                                               resumen  \
+218  El Sistema ANALISE  es un Sistema Multiagente ...   
+
+                                        palabras clave  \
+218  Análisis de Semen Humano  Razonamiento Basado ...   
+
+                                               mencion  
+218  TRABAJO ESPECIAL DE GRADO (INTELIGENCIA ARTIFI...  
+
+
+
+                                       Titulo de tesis  \
+219  Catálogos Inteligentes: Una herramienta para l...   
+
+                                               resumen palabras clave  \
+219  Hoy en día  con el imperante desarrollo de la ...           None   
+
+                                               mencion  
+219  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                            Titulo de tesis  \
+220  Generador de Sitios Web de Asignaturas   
+
+                                               resumen  \
+220  Los Sitios Web en el contexto académico facili...   
+
+                                        palabras clave  \
+220  Usabilidad  Lenguaje de Patrones de interacció...   
+
+                                               mencion  
+220  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                       Titulo de tesis  \
+221  WebMater  Una Herramienta para el Desarrollo d...   
+
+                                               resumen palabras clave  \
+221  La masificación del uso de Internet ha aumenta...           None   
+
+                                               mencion  
+221  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                       Titulo de tesis  \
+222  Desarrollo de una Aplicación Web para el Contr...   
+
+                                               resumen palabras clave  \
+222  En la prestación de cualquier servicio se esta...           None   
+
+                                               mencion  
+222  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                               Titulo de tesis  \
+223  Generador de Unidades Temáticas en el Web   
+
+                                               resumen palabras clave  \
+223  La masificación del uso de Internet ha aumenta...           None   
+
+                                               mencion  
+223  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)  
+
+
+
+                                       Titulo de tesis  \
+224  Mi escuela en Internet: Una herramienta para l...   
+
+                                               resumen  \
+224  El uso de Internet ha experimentado un aumento...   
+
+                                        palabras clave mencion  
+224  TRABAJO ESPECIAL DE GRADO (APLICACIONES INTERNET)    None  
+
+
+
+                                       Titulo de tesis  \
+225  Desarrollo de un Datamart como herramienta de ...   
+
+                                               resumen palabras clave  \
+225  Actualmente  el sector salud venezolano presen...           None   
+
+                                       mencion  
+225  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                       Titulo de tesis  \
+226  Integración de objetos multimedia en una base ...   
+
+                                               resumen palabras clave  \
+226  El Trabajo Especial de Grado #Integración de O...           None   
+
+                                       mencion  
+226  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                       Titulo de tesis  \
+227  Rediseño y Automatización de los Procesos de A...   
+
+                                               resumen palabras clave  \
+227  El Centro de Computación de la Facultad de Cie...           None   
+
+                                       mencion  
+227  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                       Titulo de tesis  \
+228  Desarrollo del Sitio Web del Laboratorio de Ba...   
+
+                                               resumen palabras clave  \
+228  Hoy en día el número de personas que utilizan ...           None   
+
+                                       mencion  
+228  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                       Titulo de tesis  \
+229  Desarrollos de los Módulos Promociones y Admin...   
+
+                                               resumen palabras clave  \
+229  Hoy en día  en la Coordinación de Postgrado  l...           None   
+
+                                       mencion  
+229  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                       Titulo de tesis  \
+230  Módulo de Preinscripción para un Sistema de Ge...   
+
+                                               resumen palabras clave  \
+230  El constante avance de la tecnología  nos brin...           None   
+
+                                       mencion  
+230  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                       Titulo de tesis  \
+231  Módulo Administrativo para el Control y Manejo...   
+
+                                               resumen palabras clave  \
+231  Hace algunos años  las organizaciones y empres...           None   
+
+                                       mencion  
+231  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                       Titulo de tesis  \
+232  Automatización del Sistema de Procesamiento de...   
+
+                                               resumen palabras clave  \
+232  Actualmente la Dirección de Deportes de la Uni...           None   
+
+                                       mencion  
+232  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                       Titulo de tesis  \
+233  APLICAR LA METODOLOGÍA OOSE PARA EL ANÁLISIS Y...   
+
+                                               resumen palabras clave  \
+233  En la actualidad es frecuente observar que la ...           None   
+
+                                       mencion  
+233  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                       Titulo de tesis  \
+234  Automatización del Sistema de Procesamiento de...   
+
+                                               resumen palabras clave  \
+234  Hoy en día  somos protagonistas de un gran aug...           None   
+
+                                       mencion  
+234  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                       Titulo de tesis  \
+235  Sistema móvil iCRM (integrated Customer Relati...   
+
+                                               resumen palabras clave  \
+235  El objetivo principal del presente trabajo es ...           None   
+
+                                       mencion  
+235  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                       Titulo de tesis  \
+236  Estudio Comparativo de los Sistemas Manejadore...   
+
+                                               resumen palabras clave  \
+236  En la actualidad  muchas instituciones se han ...           None   
+
+                                       mencion  
+236  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                       Titulo de tesis  \
+237  Desarrollo de un Data warehouse basado en Indi...   
+
+                                               resumen palabras clave  \
+237  En la actualidad la Dirección de Control de Es...           None   
+
+                                       mencion  
+237  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                       Titulo de tesis  \
+238  Desarrollo de una Herramienta para el Control ...   
+
+                                               resumen  \
+238  La presente investigación tuvo el objetivo pri...   
+
+                                        palabras clave  \
+238  Impuesto al Valor Agregado  Plan Evasión Cero ...   
+
+                                       mencion  
+238  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                       Titulo de tesis  \
+239  Desarrollo de una Herramienta para Migración d...   
+
+                                               resumen palabras clave  \
+239  En la actualidad  es necesario contar con herr...           None   
+
+                                       mencion  
+239  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                       Titulo de tesis  \
+240  Automatización de los Procesos del Manejo de D...   
+
+                                               resumen  \
+240  El problema de investigación propuesto es: ¿Có...   
+
+                                        palabras clave  \
+240  Seminario     Tesis     computación     técnic...   
+
+                                       mencion  
+240  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+
+                                       Titulo de tesis  \
+241  Automatización de los procesos de información ...   
+
+                                               resumen palabras clave  \
+241  En la actualidad toda institución o empresa ti...           None   
+
+                                       mencion  
+241  TRABAJO ESPECIAL DE GRADO (BASE DE DATOS)  
+
+
+

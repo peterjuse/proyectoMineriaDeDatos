@@ -65,17 +65,25 @@ from pprint import pprint
 -----------------------------------------------------------------------
 """
 
-#	Se abre el documento y se extrae el texto a un string
+#	Se abre el documento con las tesis y se extrae el texto a un string
 docWord = textract.process('datos/Datos_proyecto.doc')
-#     Se remplazan los fin de linea por caracteres identificables
+#	Se remplazan los fin de linea por caracteres identificables
+#	y se tratan los casos especiales de tesis por seeparar.
 docWord = docWord.replace("',\n\n'","'\n\n").replace(')\'\n\n\n',')\'~')
 docWord = docWord.replace(".\'\n\nT",".\'T").replace("n.\n\nS","n. S")
 docWord = docWord.replace("T\'\n\'T","T.\',\'T")
-#pprint(docWord)
 docWord = docWord.replace(')\',\n\n\n',')\'~').replace('\',\n\n','\',')
 docWord = docWord.replace('\n\n','~').replace('~\n','~').replace('~~','~')
-#     Se remplazan los delimitadores para hacer split posteriormente
+#   Se remplazan los delimitadores para hacer split posteriormente
 docWord = docWord.replace("\n",'').replace("\',",'@').replace('\'','').replace('.TRABA', '.@TRABA')
+docWord = docWord.replace("TRABAJO ESPECIAL DE GRADO (","").replace(")","")
+#   Remplazando aquellas filas que varien la clasificacion
+docWord = docWord.replace("TECNOLOGIA EDUCATIVA","TECNOLOGIAS EDUCATIVAS")
+docWord = docWord.replace("TECNOLOGIAS DE LA COMUNICACIÓN Y REDES DECOMPUTADORES","TECNOLOGIAS EN COMUNICACIONES Y REDES DECOMPUTADORAS")
+docWord = docWord.replace("INGENIERA DE SOFTWARE","INGENIERIA DE SOFTWARE")
+docWord = docWord.replace(" TECNOLOGIAS EN COMUNICACIONES Y REDES DECOMPUTADORAS","TECNOLOGIAS EN COMUNICACIONES Y REDES DECOMPUTADORAS")
+docWord = docWord.replace("APLICACIONES EN INTERNET","APLICACIONES INTERNET")
+docWord = docWord.replace("\'",'#').replace('\"','#').replace(',',' ').replace('.','').replace('-','').replace(';',' ')
 #	Se separa el string por el doble salto de linea para obtener cada tesis por separado
 #	Se crea una lista con los elementos obtenidos
 docWord = docWord.split('~')
@@ -88,8 +96,8 @@ tesis = []
 for i in docWord:
 	tesis.append(i.split('@'))
 
-# Elimino las filas que poseen mas de 4 elementos por la dificultad de tratamiento
-# y se agrega un elemento Nulo a aquellos que no poseen palabras clave
+#	Elimino las filas que poseen mas de 4 elementos por la dificultad de tratamiento
+#	y se agrega un elemento Nulo a aquellos que no poseen palabras clave
 for i in tesis:
 	if len(i)>4:
 		tesis.remove(i)
@@ -102,12 +110,9 @@ for i in tesis:
 -------------------------------------------------------------
 """
 
-#with open('mydata.csv', 'w') as mycsvfile:
-#    thedatawriter = csv.writer(mycsvfile)
-#    for row in tesis:
-#        thedatawriter.writerow(row)
-
-#opciones para subir dataframes a partir de una lista de lista
+#   Opciones para subir dataframes a partir de una lista de lista
 headers = ['Titulo de tesis','resumen', 'palabras clave','mencion'] 
 df = pd.DataFrame(tesis, columns=headers)
+df.ix[224,'mencion'] = "APLICACIONES INTERNET"
+df.ix[224,'palabras clave'] = None 
 

@@ -47,7 +47,7 @@ Fecha de Entrega: 12/10/2016
 #	* antiword 
 #	Para los paquetes y librerias de Python usar el 
 #	siguiente comando:
-#	pip install textract numpy pandas
+#	pip install textract numpy pandas nltk 
 #######################################################
 
 #	Librerias
@@ -57,6 +57,7 @@ import pandas as pd
 import csv
 import time as t
 from pprint import pprint
+import nltk
 #	Nota, si se va imprimir usar .encode('utf-8'))
 
 """

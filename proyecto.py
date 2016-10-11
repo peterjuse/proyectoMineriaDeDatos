@@ -47,7 +47,11 @@ Fecha de Entrega: 12/10/2016
 #	* antiword 
 #	Para los paquetes y librerias de Python usar el 
 #	siguiente comando:
-#	pip install textract numpy pandas nltk 
+#	pip install textract numpy pandas nltk
+#	Para pode correr correctamente el nlkt se debe hacer en un python shell
+#	los siguientes comandos:
+#	import nlkt
+#	nlkt.download() y bajar los paquetes de uso 
 #######################################################
 
 #	Librerias
@@ -57,7 +61,7 @@ import pandas as pd
 import csv
 import time as t
 from pprint import pprint
-import nltk
+from utiles import *
 #	Nota, si se va imprimir usar .encode('utf-8'))
 
 """
@@ -103,6 +107,10 @@ for i in tesis:
 	if len(i)>4:
 		tesis.remove(i)
 	if len(i)==3:
+		palabras = keywords(i[1])
+		for j in palabras:
+			print j.encode('utf-8')
+		print "-------------------------------------------------------"
 		i.insert(2,None)
 
 """
@@ -112,8 +120,8 @@ for i in tesis:
 """
 
 #   Opciones para subir dataframes a partir de una lista de lista
-headers = ['Titulo de tesis','resumen', 'palabras clave','mencion'] 
-df = pd.DataFrame(tesis, columns=headers)
-df.ix[224,'mencion'] = "APLICACIONES INTERNET"
-df.ix[224,'palabras clave'] = None 
+#headers = ['Titulo de tesis','resumen', 'palabras clave','mencion'] 
+#df = pd.DataFrame(tesis, columns=headers)
+#df.ix[224,'mencion'] = "APLICACIONES INTERNET"
+#df.ix[224,'palabras clave'] = None 
 

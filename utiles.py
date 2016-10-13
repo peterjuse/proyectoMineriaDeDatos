@@ -36,5 +36,5 @@ def keywords(descripcion):
 	
 	frecuencia =  nltk.FreqDist(descripcion)
 	keywords = frecuencia.most_common(20)	
-	
-	return [w[0] for w in keywords if w[0] not in simbolos]
+	keywords = [w[0] for w in keywords if w[0] not in simbolos]
+	return keywords

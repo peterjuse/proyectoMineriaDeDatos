@@ -45,6 +45,7 @@ Fecha de Entrega: 12/10/2016
 #	REQUERIMIENTOS:
 #	Para hacer funcionar el proyecto, se debe instalar:
 #	* antiword 
+#		sudo apt-get install antiword
 #	Para los paquetes y librerias de Python usar el 
 #	siguiente comando:
 #	pip install textract numpy pandas nltk
@@ -88,6 +89,7 @@ docWord = docWord.replace("TECNOLOGIAS DE LA COMUNICACIÓN Y REDES DECOMPUTADORE
 docWord = docWord.replace("INGENIERA DE SOFTWARE","INGENIERIA DE SOFTWARE")
 docWord = docWord.replace(" TECNOLOGIAS EN COMUNICACIONES Y REDES DECOMPUTADORAS","TECNOLOGIAS EN COMUNICACIONES Y REDES DECOMPUTADORAS")
 docWord = docWord.replace("APLICACIONES EN INTERNET","APLICACIONES INTERNET")
+docWord = docWord.lower()
 docWord = docWord.replace("\'",'#').replace('\"','#').replace(',',' ').replace('.','').replace('-','').replace(';',' ')
 #	Se separa el string por el doble salto de linea para obtener cada tesis por separado
 #	Se crea una lista con los elementos obtenidos
@@ -108,10 +110,11 @@ for i in tesis:
 		tesis.remove(i)
 	if len(i)==3:
 		palabras = keywords(i[1])
-		for j in palabras:
-			print j.encode('utf-8')
-		print "-------------------------------------------------------"
-		i.insert(2,None)
+		#for j in palabras:
+		#	print j.encode('utf-8')
+		#print "-------------------------------------------------------"
+		#print type(palabras)
+		i.insert(2,palabras)
 
 """
 -------------------------------------------------------------
@@ -120,8 +123,8 @@ for i in tesis:
 """
 
 #   Opciones para subir dataframes a partir de una lista de lista
-#headers = ['Titulo de tesis','resumen', 'palabras clave','mencion'] 
-#df = pd.DataFrame(tesis, columns=headers)
-#df.ix[224,'mencion'] = "APLICACIONES INTERNET"
-#df.ix[224,'palabras clave'] = None 
-
+headers = ['Titulo de tesis','resumen', 'palabras clave','mencion'] 
+df = pd.DataFrame(tesis, columns=headers)
+df.ix[226,'mencion'] = "aplicaciones internet"
+df.ix[226,'palabras clave'] = keywords(df.ix[226,'resumen']) 
+df.to_csv('datos/salida.csv',encoding="utf-8")

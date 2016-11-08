@@ -115,6 +115,7 @@ for i in tesis:
 		#	print j.encode('utf-8')
 		#print "-------------------------------------------------------"
 		#print type(palabras)
+		palabras = palabras + i[0].decode('utf-8')
 		i.insert(2,palabras)
 
 """

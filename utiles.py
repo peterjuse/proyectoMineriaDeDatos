@@ -28,13 +28,21 @@ def keywords(descripcion):
 
 	"""
 	stop = set(stopwords.words('spanish'))	
-	simbolos = {'(',':','#','d','8','10', '6','[',']','n°'} 
+	simbolos = {'(',':','#','d','8','10', '6','[',']','n°'}
+
+	diccion = { 'central','consiste','herramienta','manejo','ello','permitan','20','a','adémas','de','manera','en',
+	'forma','cada','facultad','más','ser','y','debido',u'trav\xe9s','mayor','ciencias','tambiÉn','ucv','uso','cabo','vez',
+	'puede','pueden',u'\xe9l','la','lo','los','las','así','el'
+		} 
 	
 	descripcion = [i for i in descripcion.lower().split() if i not in stop]
 	descripcion = " ".join(descripcion)
 	descripcion = nltk.tokenize.word_tokenize(descripcion.decode('utf-8'))
 	
 	frecuencia =  nltk.FreqDist(descripcion)
-	keywords = frecuencia.most_common(20)	
+	keywords = frecuencia.most_common(50)	
 	keywords = [w[0] for w in keywords if w[0] not in simbolos]
+	keywords = [x for x in keywords if x not in diccion]
+	print keywords
+	print "\n"
 	return keywords

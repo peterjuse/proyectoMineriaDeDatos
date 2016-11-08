@@ -89,6 +89,7 @@ docWord = docWord.replace("TECNOLOGIAS DE LA COMUNICACIÓN Y REDES DECOMPUTADORE
 docWord = docWord.replace("INGENIERA DE SOFTWARE","INGENIERIA DE SOFTWARE")
 docWord = docWord.replace(" TECNOLOGIAS EN COMUNICACIONES Y REDES DECOMPUTADORAS","TECNOLOGIAS EN COMUNICACIONES Y REDES DECOMPUTADORAS")
 docWord = docWord.replace("APLICACIONES EN INTERNET","APLICACIONES INTERNET")
+docWord = docWord.replace("BASE DE DATOS","BASES DE DATOS")
 docWord = docWord.lower()
 docWord = docWord.replace("\'",'#').replace('\"','#').replace(',',' ').replace('.','').replace('-','').replace(';',' ')
 #	Se separa el string por el doble salto de linea para obtener cada tesis por separado
@@ -109,7 +110,7 @@ for i in tesis:
 	if len(i)>4:
 		tesis.remove(i)
 	if len(i)==3:
-		palabras = keywords(i[1])
+		palabras = " ".join(keywords(i[1]))
 		#for j in palabras:
 		#	print j.encode('utf-8')
 		#print "-------------------------------------------------------"
@@ -124,7 +125,20 @@ for i in tesis:
 
 #   Opciones para subir dataframes a partir de una lista de lista
 headers = ['Titulo de tesis','resumen', 'palabras clave','mencion'] 
-df = pd.DataFrame(tesis, columns=headers)
-df.ix[226,'mencion'] = "aplicaciones internet"
-df.ix[226,'palabras clave'] = keywords(df.ix[226,'resumen']) 
-df.to_csv('datos/salida.csv',encoding="utf-8")
+df = pd.DataFrame(tesis,columns=headers)
+#df.ix[226,'mencion'] = "aplicaciones internet"
+#df.ix[226,'palabras clave'] = " ".join(keywords(df.ix[226,'resumen']))
+df.to_csv('datos/salida.csv',encoding="utf-8",index=True)
+
+
+#	Otro procesado de elementos para crear un dataframe transaccional
+headers= ['mencion','keyword']
+elem = []
+for index, row in df.iterrows():
+	kw = row['palabras clave'].replace('(','').split(" ")
+	mencion = row['mencion'] 
+	for i in kw:
+		if i!="":
+			elem.append([mencion,i])
+newdf = pd.DataFrame(elem,columns=headers)
+newdf.to_csv('datos/trans.csv',encoding='utf-8',index=False)

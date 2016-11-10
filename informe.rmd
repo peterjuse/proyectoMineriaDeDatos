@@ -1,0 +1,228 @@
+---
+title: "informe"
+author: "Pedro Luis Boll Lugo"
+date: "9 de noviembre de 2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Informe de proyecto de Mineria de Datos
+
+Instalación:
+
+Para poder correr este proyecto de manera correcta es necesario tener instalado
+los lenguajes de programacion Python en su version 2.X (preferiblemente 2.7) y el
+lenguaje de programación R.
+
+Usando un sistema operativo linux basado en debian, esto se hace de la siguiente
+forma:
+
+```{}
+    sudo apt-get install python r-base
+```
+
+
+Una vez instalados los lenguajes de programacion utilizado, se recomienda utilizar
+spyder como IDE para desarrollar en Python, RStudio como IDE para desarrollar en 
+R y la utilizacion de ciertas librerias, que permitiran el funcionamiento del prooyecto.
+
+Para el caso de las librerias de Python y el conjunto de librerias utilizadas debemos
+realizar los siguientes pasos en una terminal:
+
+```{}
+    sudo pip install virtualenv virtualenwrapper spyder
+```
+
+o bien podemos hacer
+
+```{}
+    sudo apt-get install python-dev python-pip python-virtualenv python-virtuaenvwrapper
+```
+
+Para crear y usar los enviroments de Python ademas necesitamos tambien configurar
+el interprete de ordenes, por lo que hacemos el comando  
+
+```{}
+    nano ~/.bashrc 
+```
+
+y agregamos al final del archivo
+
+```{}
+    export WORKON_HOME=$HOME/.virtualenvs
+    export PROJECT_HOME=$HOME/Devel
+    source /usr/local/bin/virtualenvwrapper.sh    
+```
+
+Con ello podemos crear entornos con librerias de python sin que se afecten el entorno 
+general de python. Procedemos a crear un enviroment, activarlo y bajar las librerias
+necesarias para la ejecucion de los scripts de python. Esto lo hacemos con los comandos
+siguientes:
+
+```{}
+    mkvirtualenv mineria
+    workon mineria
+    pip install scipy numpy pandas nltk 
+```
+
+una vez instalados las librerias, procedemos a descargar el soporte para la libreria
+nltk (que hace el procesado del lenguaje natural en los textos) de la siguiente forma:
+
+abriendo un shell de python escribimos:
+
+```{}
+    nltk.download()    
+```
+
+Vamos a la pestaña all y le damos click en el boton de descargar. Despues de descargar el soporte podemos cerrar la consola, habiendo terminado la configuracion del entorno Python.
+
+Para el Script en R podemos descargar el instalador de RStudio del siguiente link: https://www.rstudio.com/products/rstudio/download/
+
+Una vez descargado e instalado podemos proceder abrir el IDE.En la pestaña de 
+consola procedemos a instalar las librerias necesarias
+
+```{}
+    install.packages(c('arules','arulesViz'))
+```
+
+Si durante la instalaccion de la libreria arulesViz ocurre un error entonces correr 
+el siguiente comando:
+
+```{}
+   sudo apt-get install libcurl4-gnutls-dev
+```
+
+Listo. Ya podemos comenzar a detallar la solucion del problema.
+
+## Problema
+
+Se requiere una solucion automatizada de reconocimiento del area de conocimiento
+de una tesis, haciendo uso de las palabras clave que podamos conseguir de los mismos.
+Para ello se provee de un conjunto de datos con los titulos, descripciones, palabras 
+clave y la mencion de varios cientos de tesis. 
+
+## Solución
+
+Se plantea que usando ese conjunto de datos de tesis, se cree una solucion haciendo
+uso de un proceso de descubrimiento de conocimiento (KDD) generando un modelo a traves
+de mineria de datos, para que dadas las palabras clave de una tesis, poder clasifcarla
+de la mejor manera posible.
+
+El conjunto dado posee 4 variables distintas, todas nominales, las cuales consiste
+en el titulo de la tesis, la descripcion y la mencion de la tesis. Existe un problema 
+que se observa al ver que la mayoria de las tesis posee incosistencias del tipo de 
+errores ortograficos, la falta de datos, especialemerte en la columna de palabras clave
+que nos hacen imposible determinar cuando una tesis pertenece a una determinada area.
+
+En un primer momento, realizaremos el proceso de preprocesamiento de estos datos
+utilizando el script de Python proyecto.py, con el que se ataca la problematica
+de la incosistencia de la data. Haciendo uso de la libreria nltk para el procesamiento
+de texto y lenguaje natural y haciendo uso de la descripcion de la tesis obtenemos
+las palabras mas relevantes y comunes de las mismas. Estos datos son guardados en la 
+columna correspondiente y finalmente todos los datos son impresos en dos archivos 
+auxiliares .csv separados por coma. El archivo salida.csv corresponde a los datos
+ya operados y completados, mientras que el archivo trans.csv asocia cada palabra 
+clave de una tesis con su respectiva mención. 
+
+Ahora pasamos a la generacion del modelo, usando el lenguaje de programacion R.
+
+Lo primero que se realiza es el import de las librerias arules y arulesViz, que
+fueron creadas para obtener reglas de asocación a traves de un conjunto de datos 
+transaccional. Eso se hace a traves de los comandos:
+
+```{r}
+    setwd("~/Universidad/Mineria de Datos/proyectoMineriaDeDatos/")
+    library(arules)
+    library(arulesViz)
+```
+
+Cabe destacar que se debe cambiar el directorio de trabajo mostrado anteriormente
+por el directorio en donde se encuentra el proyecto. El siguiente paso es leer los
+conjuntos de datos preprocesados.
+
+```{r}
+    df <- read.csv("datos/trans.csv")
+    dataset <- read.csv("datos/salida.csv") 
+```
+
+Luego de obtenido los datos, podemos observar que en el dataframe existen una cantidad
+de palabras vacias, es decir, que no aportan nada al analisis. Por lo que creamos 
+una lista diccionario para poder excluirlas de las palabras clave verdaderas.
+
+```{r}
+diccionario = c('central','consiste','herramienta','manejo','ello','permitan',
+                '20','a','adémas','de','manera','en','forma','cada','facultad',
+                'más','ser','y','debido','través','mayor','ciencias','también',
+                'ucv','uso','cabo','vez','puede','pueden','éL','la','lo','los',
+                'las','así','el','del','una','un','desarrollo','trabajo','para',
+                'sistema','gran', 'docentes','ejemplo','está','launiversidad',
+                'usando','lafacultad','poder','tipo','según','debe','diferentes',
+                'dela','profesores','dentro','punto','necesidades','escuela',
+                'bajo','hace','utilizando','postgrado','mismos','estudios','hacia',
+                'tener','permita','fin','venezuela','presenta','personal',
+                'presente','además','grado'
+                )
+```
+
+Ahora bien, quitamos las palabras vacias del resto
+
+```{r}
+trx <- df
+trx <- trx[ ! trx$keyword %in% diccionario,]
+```
+
+Y volvemos el dataframe en un conjunto de "transacciones"
+
+```{r}
+trx <- split(trx$mencion,trx$keyword)
+trx <- as(trx,"transactions")
+```
+
+Observemos el resultado de cada par palabra clave con mención
+
+```{r}
+inspect(trx)
+```
+
+Y observemos alguna informacion relevante de los mismos
+
+```{r}
+trx
+colnames(trx)
+```
+
+Ahora generemos la serie de reglas que nos diran los criterios para asociar las
+palabras clave a una determinada mencion. Para ellos hacemos uso del algoritmo
+apriori que viene en la libreria arules.
+
+```{r}
+reglas <- apriori(trx, parameter=list(support=0.0005, confidence = 0.0125,minlen=2))
+```
+
+Observemos las reglas que se han generado en el proceso:
+
+```{r}
+summary(reglas)
+inspect(reglas)
+```
+
+Como podemos ver, tenemos un conjunto de reglas importante para poder tomar decisiones
+referente a las palabras clave y las menciones que podrian perteneces. Veamos las
+25 reglas con mayor confianza del grupo
+
+```{r}
+reglas <-sort(reglas, by="confidence", decreasing=TRUE) # ordena regla 
+inspect(head(reglas,25))
+```
+
+Con estas reglas podemos crear un script que dada la aparicion de esas palabras
+claves, clasificar una nueva tesis en una determinada mención. Graficamente se vera
+de la siguiente manera:
+
+```{r pressure, echo=FALSE}
+plot(reglas, method="graph", control=list(type="items"))
+```
+

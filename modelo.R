@@ -2,7 +2,9 @@
 setwd("~/Universidad/Mineria de Datos/proyectoMineriaDeDatos/")
 library(arules)
 library(arulesViz)
-library("rpart")
+
+df <- read.csv("datos/trans.csv")
+dataset <- read.csv("datos/salida.csv") 
 
 diccionario = c('central','consiste','herramienta','manejo','ello','permitan',
                 '20','a','adémas','de','manera','en','forma','cada','facultad',
@@ -16,11 +18,6 @@ diccionario = c('central','consiste','herramienta','manejo','ello','permitan',
                 'tener','permita','fin','venezuela','presenta','personal',
                 'presente','además','grado'
                 )
-
-
-df <- read.csv("datos/trans.csv")
-dataset <- read.csv("datos/salida.csv") 
-
 
 ################################################################################
 trx <- df
@@ -37,7 +34,7 @@ reglas <- apriori(trx, parameter=list(support=0.0005, confidence = 0.0125,minlen
 summary(reglas)
 inspect(reglas)
 
-# imprime las 3 reglas con mayor confianza
+# imprime las 25 reglas con mayor confianza
 reglas <-sort(reglas, by="confidence", decreasing=TRUE) # ordena regla 
 inspect(head(reglas,25))
 
@@ -52,12 +49,4 @@ plot(reglas, method="graph", control=list(type="items"))
 
 ###############################################################################
 
-dataset <- dataset[-225,]
-
-## set the seed to make your partition reproductible
-s <- sample(169,72)
-train <- dataset[s,]
-test <- dataset[s,]
-
-modelo <- rpart(mencion ~ train$palabras.clave, data=train,method = "class")
 
